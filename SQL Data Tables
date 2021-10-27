@@ -1,0 +1,22 @@
+-- Create State Income Data Column
+CREATE TABLE income (
+	county varchar NOT NULL,
+	year INT NOT NULL, 
+	income INT, 
+	population INT,
+	PRIMARY KEY (county, year)
+); 
+
+Select * FROM income
+
+-- Create Zillow Housing Data Table 
+CREATE TABLE housing (
+	county varchar NOT NULL, 
+	year Int NOT NULL,
+	house_price Float,
+	PRIMARY KEY (county, year)
+);
+
+Select * FROM housing 
+
+postgres://postgres:DnalEvelc1130!@localhost:5432/Housing-Database
