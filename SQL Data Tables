@@ -19,4 +19,14 @@ CREATE TABLE housing (
 
 Select * FROM housing 
 
+-- Create GDP by County Data Table 
+CREATE TABLE gdp (
+	year Int NOT NULL,
+	county varchar NOT NULL,
+	description varchar NOT NULL, 
+	GDP_change varchar
+);
+
+Select * FROM gdp 
+
 postgres://postgres:DnalEvelc1130!@localhost:5432/Housing-Database
