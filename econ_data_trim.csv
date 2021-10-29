@@ -1,0 +1,2751 @@
+year,county,Description,LineCode,GeoFips,GDP_Change
+2010,Adams,All industry total,1.0,8001,1.7
+2010,Adams,Private industries,2.0,8001,1.8
+2010,Adams,"Agriculture, forestry, fishing and hunting",3.0,8001,31.9
+2010,Adams,Real estate and rental and leasing,56.0,8001,3.5
+2010,Adams,Government and government enterprises,83.0,8001,1.2
+2010,Alamosa,All industry total,1.0,8003,-2.5
+2010,Alamosa,Private industries,2.0,8003,-4.2
+2010,Alamosa,"Agriculture, forestry, fishing and hunting",3.0,8003,-64.4
+2010,Alamosa,Real estate and rental and leasing,56.0,8003,-0.9
+2010,Alamosa,Government and government enterprises,83.0,8003,3.8
+2010,Arapahoe,All industry total,1.0,8005,4.1
+2010,Arapahoe,Private industries,2.0,8005,4.4
+2010,Arapahoe,"Agriculture, forestry, fishing and hunting",3.0,8005,-12.6
+2010,Arapahoe,Real estate and rental and leasing,56.0,8005,33.2
+2010,Arapahoe,Government and government enterprises,83.0,8005,1.9
+2010,Archuleta,All industry total,1.0,8007,7.9
+2010,Archuleta,Private industries,2.0,8007,8.3
+2010,Archuleta,"Agriculture, forestry, fishing and hunting",3.0,8007,-79.1
+2010,Archuleta,Real estate and rental and leasing,56.0,8007,5.9
+2010,Archuleta,Government and government enterprises,83.0,8007,4.9
+2010,Baca,All industry total,1.0,8009,-8.9
+2010,Baca,Private industries,2.0,8009,-11
+2010,Baca,"Agriculture, forestry, fishing and hunting",3.0,8009,-23.7
+2010,Baca,Real estate and rental and leasing,56.0,8009,(D)
+2010,Baca,Government and government enterprises,83.0,8009,2.4
+2010,Bent,All industry total,1.0,8011,-2.4
+2010,Bent,Private industries,2.0,8011,-3.4
+2010,Bent,"Agriculture, forestry, fishing and hunting",3.0,8011,-21.9
+2010,Bent,Real estate and rental and leasing,56.0,8011,2.2
+2010,Bent,Government and government enterprises,83.0,8011,0.4
+2010,Boulder,All industry total,1.0,8013,2.5
+2010,Boulder,Private industries,2.0,8013,2.4
+2010,Boulder,"Agriculture, forestry, fishing and hunting",3.0,8013,-0.6
+2010,Boulder,Real estate and rental and leasing,56.0,8013,2.6
+2010,Boulder,Government and government enterprises,83.0,8013,2.7
+2010,Broomfield,All industry total,1.0,8014,15.7
+2010,Broomfield,Private industries,2.0,8014,15.9
+2010,Broomfield,"Agriculture, forestry, fishing and hunting",3.0,8014,-31.1
+2010,Broomfield,Real estate and rental and leasing,56.0,8014,5.6
+2010,Broomfield,Government and government enterprises,83.0,8014,2.1
+2010,Chaffee,All industry total,1.0,8015,1.3
+2010,Chaffee,Private industries,2.0,8015,1.1
+2010,Chaffee,"Agriculture, forestry, fishing and hunting",3.0,8015,-34
+2010,Chaffee,Real estate and rental and leasing,56.0,8015,-1.6
+2010,Chaffee,Government and government enterprises,83.0,8015,1.8
+2010,Cheyenne,All industry total,1.0,8017,18.5
+2010,Cheyenne,Private industries,2.0,8017,20.2
+2010,Cheyenne,"Agriculture, forestry, fishing and hunting",3.0,8017,25.1
+2010,Cheyenne,Real estate and rental and leasing,56.0,8017,(D)
+2010,Cheyenne,Government and government enterprises,83.0,8017,-0.6
+2010,Conejos,All industry total,1.0,8021,-15.6
+2010,Conejos,Private industries,2.0,8021,-18.5
+2010,Conejos,"Agriculture, forestry, fishing and hunting",3.0,8021,-85.7
+2010,Conejos,Real estate and rental and leasing,56.0,8021,(D)
+2010,Conejos,Government and government enterprises,83.0,8021,-3
+2010,Costilla,All industry total,1.0,8023,-11.9
+2010,Costilla,Private industries,2.0,8023,-14.5
+2010,Costilla,"Agriculture, forestry, fishing and hunting",3.0,8023,-87.5
+2010,Costilla,Real estate and rental and leasing,56.0,8023,(D)
+2010,Costilla,Government and government enterprises,83.0,8023,0.5
+2010,Crowley,All industry total,1.0,8025,4.5
+2010,Crowley,Private industries,2.0,8025,7.6
+2010,Crowley,"Agriculture, forestry, fishing and hunting",3.0,8025,(D)
+2010,Crowley,Real estate and rental and leasing,56.0,8025,(D)
+2010,Crowley,Government and government enterprises,83.0,8025,-0.8
+2010,Custer,All industry total,1.0,8027,-0.8
+2010,Custer,Private industries,2.0,8027,-1.3
+2010,Custer,"Agriculture, forestry, fishing and hunting",3.0,8027,(D)
+2010,Custer,Real estate and rental and leasing,56.0,8027,-0.9
+2010,Custer,Government and government enterprises,83.0,8027,3.1
+2010,Delta,All industry total,1.0,8029,0.2
+2010,Delta,Private industries,2.0,8029,0.3
+2010,Delta,"Agriculture, forestry, fishing and hunting",3.0,8029,-35.8
+2010,Delta,Real estate and rental and leasing,56.0,8029,-1.5
+2010,Delta,Government and government enterprises,83.0,8029,-0.1
+2010,Denver,All industry total,1.0,8031,1.5
+2010,Denver,Private industries,2.0,8031,1.4
+2010,Denver,"Agriculture, forestry, fishing and hunting",3.0,8031,4120.1
+2010,Denver,Real estate and rental and leasing,56.0,8031,5.2
+2010,Denver,Government and government enterprises,83.0,8031,2.2
+2010,Dolores,All industry total,1.0,8033,-3
+2010,Dolores,Private industries,2.0,8033,-3.5
+2010,Dolores,"Agriculture, forestry, fishing and hunting",3.0,8033,-56.3
+2010,Dolores,Real estate and rental and leasing,56.0,8033,(D)
+2010,Dolores,Government and government enterprises,83.0,8033,7.2
+2010,Douglas,All industry total,1.0,8035,0.9
+2010,Douglas,Private industries,2.0,8035,1.1
+2010,Douglas,"Agriculture, forestry, fishing and hunting",3.0,8035,(D)
+2010,Douglas,Real estate and rental and leasing,56.0,8035,1.2
+2010,Douglas,Government and government enterprises,83.0,8035,-2.6
+2010,Eagle,All industry total,1.0,8037,-6.7
+2010,Eagle,Private industries,2.0,8037,-7.2
+2010,Eagle,"Agriculture, forestry, fishing and hunting",3.0,8037,-68.4
+2010,Eagle,Real estate and rental and leasing,56.0,8037,-10.5
+2010,Eagle,Government and government enterprises,83.0,8037,-0.6
+2010,Elbert,All industry total,1.0,8039,0
+2010,Elbert,Private industries,2.0,8039,0
+2010,Elbert,"Agriculture, forestry, fishing and hunting",3.0,8039,-56.8
+2010,Elbert,Real estate and rental and leasing,56.0,8039,4.3
+2010,Elbert,Government and government enterprises,83.0,8039,-0.3
+2010,Fremont,All industry total,1.0,8043,0.4
+2010,Fremont,Private industries,2.0,8043,-0.4
+2010,Fremont,"Agriculture, forestry, fishing and hunting",3.0,8043,-78
+2010,Fremont,Real estate and rental and leasing,56.0,8043,-2.1
+2010,Fremont,Government and government enterprises,83.0,8043,1.9
+2010,Garfield,All industry total,1.0,8045,4.6
+2010,Garfield,Private industries,2.0,8045,5
+2010,Garfield,"Agriculture, forestry, fishing and hunting",3.0,8045,-72.3
+2010,Garfield,Real estate and rental and leasing,56.0,8045,0.7
+2010,Garfield,Government and government enterprises,83.0,8045,-0.3
+2010,Gilpin,All industry total,1.0,8047,16.3
+2010,Gilpin,Private industries,2.0,8047,16.8
+2010,Gilpin,"Agriculture, forestry, fishing and hunting",3.0,8047,(D)
+2010,Gilpin,Real estate and rental and leasing,56.0,8047,6.6
+2010,Gilpin,Government and government enterprises,83.0,8047,7.1
+2010,Grand,All industry total,1.0,8049,-0.1
+2010,Grand,Private industries,2.0,8049,-0.3
+2010,Grand,"Agriculture, forestry, fishing and hunting",3.0,8049,(D)
+2010,Grand,Real estate and rental and leasing,56.0,8049,1.2
+2010,Grand,Government and government enterprises,83.0,8049,1.4
+2010,Gunnison,All industry total,1.0,8051,-3.8
+2010,Gunnison,Private industries,2.0,8051,-4.5
+2010,Gunnison,"Agriculture, forestry, fishing and hunting",3.0,8051,-68.9
+2010,Gunnison,Real estate and rental and leasing,56.0,8051,1.1
+2010,Gunnison,Government and government enterprises,83.0,8051,2
+2010,Hinsdale,All industry total,1.0,8053,1.6
+2010,Hinsdale,Private industries,2.0,8053,1
+2010,Hinsdale,"Agriculture, forestry, fishing and hunting",3.0,8053,(D)
+2010,Hinsdale,Real estate and rental and leasing,56.0,8053,(D)
+2010,Hinsdale,Government and government enterprises,83.0,8053,6.5
+2010,Huerfano,All industry total,1.0,8055,-0.4
+2010,Huerfano,Private industries,2.0,8055,-0.2
+2010,Huerfano,"Agriculture, forestry, fishing and hunting",3.0,8055,-80.6
+2010,Huerfano,Real estate and rental and leasing,56.0,8055,0.6
+2010,Huerfano,Government and government enterprises,83.0,8055,-2.2
+2010,Jackson,All industry total,1.0,8057,0.1
+2010,Jackson,Private industries,2.0,8057,-1
+2010,Jackson,"Agriculture, forestry, fishing and hunting",3.0,8057,(D)
+2010,Jackson,Real estate and rental and leasing,56.0,8057,(D)
+2010,Jackson,Government and government enterprises,83.0,8057,5.9
+2010,Jefferson,All industry total,1.0,8059,3.3
+2010,Jefferson,Private industries,2.0,8059,3.3
+2010,Jefferson,"Agriculture, forestry, fishing and hunting",3.0,8059,-58.2
+2010,Jefferson,Real estate and rental and leasing,56.0,8059,2.2
+2010,Jefferson,Government and government enterprises,83.0,8059,2.8
+2010,Kiowa,All industry total,1.0,8061,19.9
+2010,Kiowa,Private industries,2.0,8061,22.5
+2010,Kiowa,"Agriculture, forestry, fishing and hunting",3.0,8061,(D)
+2010,Kiowa,Real estate and rental and leasing,56.0,8061,(D)
+2010,Kiowa,Government and government enterprises,83.0,8061,8
+2010,Lake,All industry total,1.0,8065,-0.3
+2010,Lake,Private industries,2.0,8065,-1.3
+2010,Lake,"Agriculture, forestry, fishing and hunting",3.0,8065,(D)
+2010,Lake,Real estate and rental and leasing,56.0,8065,-1.6
+2010,Lake,Government and government enterprises,83.0,8065,2.6
+2010,Larimer,All industry total,1.0,8069,2.5
+2010,Larimer,Private industries,2.0,8069,2.8
+2010,Larimer,"Agriculture, forestry, fishing and hunting",3.0,8069,50.5
+2010,Larimer,Real estate and rental and leasing,56.0,8069,1.1
+2010,Larimer,Government and government enterprises,83.0,8069,0.6
+2010,Lincoln,All industry total,1.0,8073,2.4
+2010,Lincoln,Private industries,2.0,8073,3.1
+2010,Lincoln,"Agriculture, forestry, fishing and hunting",3.0,8073,(D)
+2010,Lincoln,Real estate and rental and leasing,56.0,8073,-0.5
+2010,Lincoln,Government and government enterprises,83.0,8073,1.1
+2010,Logan,All industry total,1.0,8075,9.9
+2010,Logan,Private industries,2.0,8075,12.1
+2010,Logan,"Agriculture, forestry, fishing and hunting",3.0,8075,56.7
+2010,Logan,Real estate and rental and leasing,56.0,8075,0.6
+2010,Logan,Government and government enterprises,83.0,8075,-1.5
+2010,Mesa,All industry total,1.0,8077,-3.3
+2010,Mesa,Private industries,2.0,8077,-3.8
+2010,Mesa,"Agriculture, forestry, fishing and hunting",3.0,8077,-71.7
+2010,Mesa,Real estate and rental and leasing,56.0,8077,0.1
+2010,Mesa,Government and government enterprises,83.0,8077,-0.3
+2010,Mineral,All industry total,1.0,8079,0.8
+2010,Mineral,Private industries,2.0,8079,0.7
+2010,Mineral,"Agriculture, forestry, fishing and hunting",3.0,8079,(D)
+2010,Mineral,Real estate and rental and leasing,56.0,8079,(D)
+2010,Mineral,Government and government enterprises,83.0,8079,1.7
+2010,Moffat,All industry total,1.0,8081,3.5
+2010,Moffat,Private industries,2.0,8081,3.9
+2010,Moffat,"Agriculture, forestry, fishing and hunting",3.0,8081,-75.7
+2010,Moffat,Real estate and rental and leasing,56.0,8081,-0.9
+2010,Moffat,Government and government enterprises,83.0,8081,-0.8
+2010,Montezuma,All industry total,1.0,8083,-15.2
+2010,Montezuma,Private industries,2.0,8083,-17.3
+2010,Montezuma,"Agriculture, forestry, fishing and hunting",3.0,8083,-55.8
+2010,Montezuma,Real estate and rental and leasing,56.0,8083,-1.5
+2010,Montezuma,Government and government enterprises,83.0,8083,2.7
+2010,Montrose,All industry total,1.0,8085,-3.8
+2010,Montrose,Private industries,2.0,8085,-4.8
+2010,Montrose,"Agriculture, forestry, fishing and hunting",3.0,8085,-62.4
+2010,Montrose,Real estate and rental and leasing,56.0,8085,-3.9
+2010,Montrose,Government and government enterprises,83.0,8085,1.7
+2010,Morgan,All industry total,1.0,8087,14.1
+2010,Morgan,Private industries,2.0,8087,16
+2010,Morgan,"Agriculture, forestry, fishing and hunting",3.0,8087,264
+2010,Morgan,Real estate and rental and leasing,56.0,8087,2.4
+2010,Morgan,Government and government enterprises,83.0,8087,-1.1
+2010,Otero,All industry total,1.0,8089,3.3
+2010,Otero,Private industries,2.0,8089,3.4
+2010,Otero,"Agriculture, forestry, fishing and hunting",3.0,8089,4.7
+2010,Otero,Real estate and rental and leasing,56.0,8089,1.7
+2010,Otero,Government and government enterprises,83.0,8089,3.1
+2010,Ouray,All industry total,1.0,8091,-4.4
+2010,Ouray,Private industries,2.0,8091,-5.4
+2010,Ouray,"Agriculture, forestry, fishing and hunting",3.0,8091,-80.6
+2010,Ouray,Real estate and rental and leasing,56.0,8091,1.4
+2010,Ouray,Government and government enterprises,83.0,8091,2.4
+2010,Park,All industry total,1.0,8093,1.6
+2010,Park,Private industries,2.0,8093,1
+2010,Park,"Agriculture, forestry, fishing and hunting",3.0,8093,-74.2
+2010,Park,Real estate and rental and leasing,56.0,8093,0.7
+2010,Park,Government and government enterprises,83.0,8093,5.2
+2010,Phillips,All industry total,1.0,8095,2.1
+2010,Phillips,Private industries,2.0,8095,1.8
+2010,Phillips,"Agriculture, forestry, fishing and hunting",3.0,8095,-3.7
+2010,Phillips,Real estate and rental and leasing,56.0,8095,(D)
+2010,Phillips,Government and government enterprises,83.0,8095,4
+2010,Pitkin,All industry total,1.0,8097,-0.5
+2010,Pitkin,Private industries,2.0,8097,-0.6
+2010,Pitkin,"Agriculture, forestry, fishing and hunting",3.0,8097,(D)
+2010,Pitkin,Real estate and rental and leasing,56.0,8097,12.9
+2010,Pitkin,Government and government enterprises,83.0,8097,0.7
+2010,Prowers,All industry total,1.0,8099,-1.4
+2010,Prowers,Private industries,2.0,8099,-1.8
+2010,Prowers,"Agriculture, forestry, fishing and hunting",3.0,8099,-15
+2010,Prowers,Real estate and rental and leasing,56.0,8099,-0.1
+2010,Prowers,Government and government enterprises,83.0,8099,0.2
+2010,Pueblo,All industry total,1.0,8101,3.5
+2010,Pueblo,Private industries,2.0,8101,4
+2010,Pueblo,"Agriculture, forestry, fishing and hunting",3.0,8101,-60.2
+2010,Pueblo,Real estate and rental and leasing,56.0,8101,1.6
+2010,Pueblo,Government and government enterprises,83.0,8101,1.3
+2010,Routt,All industry total,1.0,8107,4.3
+2010,Routt,Private industries,2.0,8107,4.5
+2010,Routt,"Agriculture, forestry, fishing and hunting",3.0,8107,(D)
+2010,Routt,Real estate and rental and leasing,56.0,8107,-1.1
+2010,Routt,Government and government enterprises,83.0,8107,1
+2010,Saguache,All industry total,1.0,8109,-0.3
+2010,Saguache,Private industries,2.0,8109,-2
+2010,Saguache,"Agriculture, forestry, fishing and hunting",3.0,8109,-12.5
+2010,Saguache,Real estate and rental and leasing,56.0,8109,(D)
+2010,Saguache,Government and government enterprises,83.0,8109,7.3
+2010,Sedgwick,All industry total,1.0,8115,1.2
+2010,Sedgwick,Private industries,2.0,8115,0.8
+2010,Sedgwick,"Agriculture, forestry, fishing and hunting",3.0,8115,(D)
+2010,Sedgwick,Real estate and rental and leasing,56.0,8115,(D)
+2010,Sedgwick,Government and government enterprises,83.0,8115,3.9
+2010,Summit,All industry total,1.0,8117,1.4
+2010,Summit,Private industries,2.0,8117,1.4
+2010,Summit,"Agriculture, forestry, fishing and hunting",3.0,8117,(D)
+2010,Summit,Real estate and rental and leasing,56.0,8117,3.3
+2010,Summit,Government and government enterprises,83.0,8117,1.6
+2010,Teller,All industry total,1.0,8119,3.2
+2010,Teller,Private industries,2.0,8119,3.3
+2010,Teller,"Agriculture, forestry, fishing and hunting",3.0,8119,(D)
+2010,Teller,Real estate and rental and leasing,56.0,8119,2
+2010,Teller,Government and government enterprises,83.0,8119,2.3
+2010,Washington,All industry total,1.0,8121,2.5
+2010,Washington,Private industries,2.0,8121,2.4
+2010,Washington,"Agriculture, forestry, fishing and hunting",3.0,8121,-4
+2010,Washington,Real estate and rental and leasing,56.0,8121,(D)
+2010,Washington,Government and government enterprises,83.0,8121,3.2
+2010,Weld,All industry total,1.0,8123,7.7
+2010,Weld,Private industries,2.0,8123,8.4
+2010,Weld,"Agriculture, forestry, fishing and hunting",3.0,8123,(D)
+2010,Weld,Real estate and rental and leasing,56.0,8123,0.5
+2010,Weld,Government and government enterprises,83.0,8123,1
+2010,Yuma,All industry total,1.0,8125,32.1
+2010,Yuma,Private industries,2.0,8125,35.9
+2010,Yuma,"Agriculture, forestry, fishing and hunting",3.0,8125,159.8
+2010,Yuma,Real estate and rental and leasing,56.0,8125,4.7
+2010,Yuma,Government and government enterprises,83.0,8125,0.4
+2011,Adams,All industry total,1.0,8001,3.6
+2011,Adams,Private industries,2.0,8001,4.5
+2011,Adams,"Agriculture, forestry, fishing and hunting",3.0,8001,72.5
+2011,Adams,Real estate and rental and leasing,56.0,8001,1.7
+2011,Adams,Government and government enterprises,83.0,8001,-0.6
+2011,Alamosa,All industry total,1.0,8003,6.4
+2011,Alamosa,Private industries,2.0,8003,8.1
+2011,Alamosa,"Agriculture, forestry, fishing and hunting",3.0,8003,195
+2011,Alamosa,Real estate and rental and leasing,56.0,8003,0
+2011,Alamosa,Government and government enterprises,83.0,8003,0.2
+2011,Arapahoe,All industry total,1.0,8005,5.5
+2011,Arapahoe,Private industries,2.0,8005,5.9
+2011,Arapahoe,"Agriculture, forestry, fishing and hunting",3.0,8005,166.7
+2011,Arapahoe,Real estate and rental and leasing,56.0,8005,37.2
+2011,Arapahoe,Government and government enterprises,83.0,8005,0.6
+2011,Archuleta,All industry total,1.0,8007,1.1
+2011,Archuleta,Private industries,2.0,8007,1.4
+2011,Archuleta,"Agriculture, forestry, fishing and hunting",3.0,8007,-38.9
+2011,Archuleta,Real estate and rental and leasing,56.0,8007,2.3
+2011,Archuleta,Government and government enterprises,83.0,8007,-0.6
+2011,Baca,All industry total,1.0,8009,5.8
+2011,Baca,Private industries,2.0,8009,7.3
+2011,Baca,"Agriculture, forestry, fishing and hunting",3.0,8009,17
+2011,Baca,Real estate and rental and leasing,56.0,8009,(D)
+2011,Baca,Government and government enterprises,83.0,8009,-1.2
+2011,Bent,All industry total,1.0,8011,26.3
+2011,Bent,Private industries,2.0,8011,39.7
+2011,Bent,"Agriculture, forestry, fishing and hunting",3.0,8011,65.7
+2011,Bent,Real estate and rental and leasing,56.0,8011,2.5
+2011,Bent,Government and government enterprises,83.0,8011,-11.2
+2011,Boulder,All industry total,1.0,8013,1
+2011,Boulder,Private industries,2.0,8013,1.3
+2011,Boulder,"Agriculture, forestry, fishing and hunting",3.0,8013,485.3
+2011,Boulder,Real estate and rental and leasing,56.0,8013,1.5
+2011,Boulder,Government and government enterprises,83.0,8013,-0.9
+2011,Broomfield,All industry total,1.0,8014,11
+2011,Broomfield,Private industries,2.0,8014,11.3
+2011,Broomfield,"Agriculture, forestry, fishing and hunting",3.0,8014,15.5
+2011,Broomfield,Real estate and rental and leasing,56.0,8014,-0.2
+2011,Broomfield,Government and government enterprises,83.0,8014,-5
+2011,Chaffee,All industry total,1.0,8015,1.8
+2011,Chaffee,Private industries,2.0,8015,2.6
+2011,Chaffee,"Agriculture, forestry, fishing and hunting",3.0,8015,-17.7
+2011,Chaffee,Real estate and rental and leasing,56.0,8015,2.9
+2011,Chaffee,Government and government enterprises,83.0,8015,-1.7
+2011,Cheyenne,All industry total,1.0,8017,2.2
+2011,Cheyenne,Private industries,2.0,8017,2.6
+2011,Cheyenne,"Agriculture, forestry, fishing and hunting",3.0,8017,-4.8
+2011,Cheyenne,Real estate and rental and leasing,56.0,8017,(D)
+2011,Cheyenne,Government and government enterprises,83.0,8017,-3.7
+2011,Conejos,All industry total,1.0,8021,20.4
+2011,Conejos,Private industries,2.0,8021,26.5
+2011,Conejos,"Agriculture, forestry, fishing and hunting",3.0,8021,529.6
+2011,Conejos,Real estate and rental and leasing,56.0,8021,(D)
+2011,Conejos,Government and government enterprises,83.0,8021,-2.6
+2011,Costilla,All industry total,1.0,8023,24.9
+2011,Costilla,Private industries,2.0,8023,31.3
+2011,Costilla,"Agriculture, forestry, fishing and hunting",3.0,8023,1082.1
+2011,Costilla,Real estate and rental and leasing,56.0,8023,(D)
+2011,Costilla,Government and government enterprises,83.0,8023,-1.2
+2011,Crowley,All industry total,1.0,8025,-7.5
+2011,Crowley,Private industries,2.0,8025,-10.2
+2011,Crowley,"Agriculture, forestry, fishing and hunting",3.0,8025,-88.2
+2011,Crowley,Real estate and rental and leasing,56.0,8025,(D)
+2011,Crowley,Government and government enterprises,83.0,8025,-2.3
+2011,Custer,All industry total,1.0,8027,-0.5
+2011,Custer,Private industries,2.0,8027,-0.1
+2011,Custer,"Agriculture, forestry, fishing and hunting",3.0,8027,-34.8
+2011,Custer,Real estate and rental and leasing,56.0,8027,0.3
+2011,Custer,Government and government enterprises,83.0,8027,-3.4
+2011,Delta,All industry total,1.0,8029,12
+2011,Delta,Private industries,2.0,8029,15.6
+2011,Delta,"Agriculture, forestry, fishing and hunting",3.0,8029,157.5
+2011,Delta,Real estate and rental and leasing,56.0,8029,-1.4
+2011,Delta,Government and government enterprises,83.0,8029,-3.4
+2011,Denver,All industry total,1.0,8031,2.7
+2011,Denver,Private industries,2.0,8031,2.9
+2011,Denver,"Agriculture, forestry, fishing and hunting",3.0,8031,-69.5
+2011,Denver,Real estate and rental and leasing,56.0,8031,6.7
+2011,Denver,Government and government enterprises,83.0,8031,0.8
+2011,Dolores,All industry total,1.0,8033,-0.9
+2011,Dolores,Private industries,2.0,8033,-1
+2011,Dolores,"Agriculture, forestry, fishing and hunting",3.0,8033,2266.2
+2011,Dolores,Real estate and rental and leasing,56.0,8033,(D)
+2011,Dolores,Government and government enterprises,83.0,8033,-0.3
+2011,Douglas,All industry total,1.0,8035,1.8
+2011,Douglas,Private industries,2.0,8035,2.1
+2011,Douglas,"Agriculture, forestry, fishing and hunting",3.0,8035,(D)
+2011,Douglas,Real estate and rental and leasing,56.0,8035,5.1
+2011,Douglas,Government and government enterprises,83.0,8035,-3.3
+2011,Eagle,All industry total,1.0,8037,-1.5
+2011,Eagle,Private industries,2.0,8037,-1.4
+2011,Eagle,"Agriculture, forestry, fishing and hunting",3.0,8037,99.3
+2011,Eagle,Real estate and rental and leasing,56.0,8037,-6.9
+2011,Eagle,Government and government enterprises,83.0,8037,-3.3
+2011,Elbert,All industry total,1.0,8039,2
+2011,Elbert,Private industries,2.0,8039,3.6
+2011,Elbert,"Agriculture, forestry, fishing and hunting",3.0,8039,5.8
+2011,Elbert,Real estate and rental and leasing,56.0,8039,3.6
+2011,Elbert,Government and government enterprises,83.0,8039,-7.5
+2011,Fremont,All industry total,1.0,8043,3
+2011,Fremont,Private industries,2.0,8043,3.2
+2011,Fremont,"Agriculture, forestry, fishing and hunting",3.0,8043,-52.2
+2011,Fremont,Real estate and rental and leasing,56.0,8043,4.5
+2011,Fremont,Government and government enterprises,83.0,8043,2.6
+2011,Garfield,All industry total,1.0,8045,0.7
+2011,Garfield,Private industries,2.0,8045,0.9
+2011,Garfield,"Agriculture, forestry, fishing and hunting",3.0,8045,-35.9
+2011,Garfield,Real estate and rental and leasing,56.0,8045,3.1
+2011,Garfield,Government and government enterprises,83.0,8045,-1.7
+2011,Gilpin,All industry total,1.0,8047,-6.2
+2011,Gilpin,Private industries,2.0,8047,-6.6
+2011,Gilpin,"Agriculture, forestry, fishing and hunting",3.0,8047,(D)
+2011,Gilpin,Real estate and rental and leasing,56.0,8047,5
+2011,Gilpin,Government and government enterprises,83.0,8047,1.3
+2011,Grand,All industry total,1.0,8049,1.2
+2011,Grand,Private industries,2.0,8049,2.1
+2011,Grand,"Agriculture, forestry, fishing and hunting",3.0,8049,(D)
+2011,Grand,Real estate and rental and leasing,56.0,8049,2.2
+2011,Grand,Government and government enterprises,83.0,8049,-4
+2011,Gunnison,All industry total,1.0,8051,1.3
+2011,Gunnison,Private industries,2.0,8051,1.4
+2011,Gunnison,"Agriculture, forestry, fishing and hunting",3.0,8051,-39.6
+2011,Gunnison,Real estate and rental and leasing,56.0,8051,2.1
+2011,Gunnison,Government and government enterprises,83.0,8051,0.6
+2011,Hinsdale,All industry total,1.0,8053,1
+2011,Hinsdale,Private industries,2.0,8053,1.4
+2011,Hinsdale,"Agriculture, forestry, fishing and hunting",3.0,8053,(D)
+2011,Hinsdale,Real estate and rental and leasing,56.0,8053,(D)
+2011,Hinsdale,Government and government enterprises,83.0,8053,-2.2
+2011,Huerfano,All industry total,1.0,8055,0.2
+2011,Huerfano,Private industries,2.0,8055,0.7
+2011,Huerfano,"Agriculture, forestry, fishing and hunting",3.0,8055,-55.4
+2011,Huerfano,Real estate and rental and leasing,56.0,8055,2.7
+2011,Huerfano,Government and government enterprises,83.0,8055,-4.8
+2011,Jackson,All industry total,1.0,8057,11.1
+2011,Jackson,Private industries,2.0,8057,12.3
+2011,Jackson,"Agriculture, forestry, fishing and hunting",3.0,8057,36.1
+2011,Jackson,Real estate and rental and leasing,56.0,8057,(D)
+2011,Jackson,Government and government enterprises,83.0,8057,5.5
+2011,Jefferson,All industry total,1.0,8059,1.2
+2011,Jefferson,Private industries,2.0,8059,1.4
+2011,Jefferson,"Agriculture, forestry, fishing and hunting",3.0,8059,342.1
+2011,Jefferson,Real estate and rental and leasing,56.0,8059,3.6
+2011,Jefferson,Government and government enterprises,83.0,8059,-0.4
+2011,Kiowa,All industry total,1.0,8061,3.2
+2011,Kiowa,Private industries,2.0,8061,3.2
+2011,Kiowa,"Agriculture, forestry, fishing and hunting",3.0,8061,(D)
+2011,Kiowa,Real estate and rental and leasing,56.0,8061,(D)
+2011,Kiowa,Government and government enterprises,83.0,8061,3.1
+2011,Lake,All industry total,1.0,8065,11.9
+2011,Lake,Private industries,2.0,8065,18.5
+2011,Lake,"Agriculture, forestry, fishing and hunting",3.0,8065,(D)
+2011,Lake,Real estate and rental and leasing,56.0,8065,0.3
+2011,Lake,Government and government enterprises,83.0,8065,-6.3
+2011,Larimer,All industry total,1.0,8069,2.2
+2011,Larimer,Private industries,2.0,8069,2.6
+2011,Larimer,"Agriculture, forestry, fishing and hunting",3.0,8069,27.2
+2011,Larimer,Real estate and rental and leasing,56.0,8069,3.2
+2011,Larimer,Government and government enterprises,83.0,8069,0.4
+2011,Lincoln,All industry total,1.0,8073,25
+2011,Lincoln,Private industries,2.0,8073,37.7
+2011,Lincoln,"Agriculture, forestry, fishing and hunting",3.0,8073,(D)
+2011,Lincoln,Real estate and rental and leasing,56.0,8073,1.4
+2011,Lincoln,Government and government enterprises,83.0,8073,-2.2
+2011,Logan,All industry total,1.0,8075,4.7
+2011,Logan,Private industries,2.0,8075,5.6
+2011,Logan,"Agriculture, forestry, fishing and hunting",3.0,8075,-13
+2011,Logan,Real estate and rental and leasing,56.0,8075,0.9
+2011,Logan,Government and government enterprises,83.0,8075,-1
+2011,Mesa,All industry total,1.0,8077,2.1
+2011,Mesa,Private industries,2.0,8077,2.8
+2011,Mesa,"Agriculture, forestry, fishing and hunting",3.0,8077,(D)
+2011,Mesa,Real estate and rental and leasing,56.0,8077,1
+2011,Mesa,Government and government enterprises,83.0,8077,-2.3
+2011,Mineral,All industry total,1.0,8079,13.5
+2011,Mineral,Private industries,2.0,8079,15.8
+2011,Mineral,"Agriculture, forestry, fishing and hunting",3.0,8079,(D)
+2011,Mineral,Real estate and rental and leasing,56.0,8079,(D)
+2011,Mineral,Government and government enterprises,83.0,8079,-6.1
+2011,Moffat,All industry total,1.0,8081,-0.1
+2011,Moffat,Private industries,2.0,8081,0
+2011,Moffat,"Agriculture, forestry, fishing and hunting",3.0,8081,153.3
+2011,Moffat,Real estate and rental and leasing,56.0,8081,2.2
+2011,Moffat,Government and government enterprises,83.0,8081,-1.1
+2011,Montezuma,All industry total,1.0,8083,40.9
+2011,Montezuma,Private industries,2.0,8083,46.9
+2011,Montezuma,"Agriculture, forestry, fishing and hunting",3.0,8083,-23.8
+2011,Montezuma,Real estate and rental and leasing,56.0,8083,0.9
+2011,Montezuma,Government and government enterprises,83.0,8083,-1
+2011,Montrose,All industry total,1.0,8085,0.2
+2011,Montrose,Private industries,2.0,8085,0.6
+2011,Montrose,"Agriculture, forestry, fishing and hunting",3.0,8085,8.8
+2011,Montrose,Real estate and rental and leasing,56.0,8085,0.7
+2011,Montrose,Government and government enterprises,83.0,8085,-2.1
+2011,Morgan,All industry total,1.0,8087,2.2
+2011,Morgan,Private industries,2.0,8087,2.7
+2011,Morgan,"Agriculture, forestry, fishing and hunting",3.0,8087,14.4
+2011,Morgan,Real estate and rental and leasing,56.0,8087,2.9
+2011,Morgan,Government and government enterprises,83.0,8087,-2.1
+2011,Otero,All industry total,1.0,8089,5.6
+2011,Otero,Private industries,2.0,8089,7.5
+2011,Otero,"Agriculture, forestry, fishing and hunting",3.0,8089,50.9
+2011,Otero,Real estate and rental and leasing,56.0,8089,3.7
+2011,Otero,Government and government enterprises,83.0,8089,-2.8
+2011,Ouray,All industry total,1.0,8091,-2.9
+2011,Ouray,Private industries,2.0,8091,-2.3
+2011,Ouray,"Agriculture, forestry, fishing and hunting",3.0,8091,-70.2
+2011,Ouray,Real estate and rental and leasing,56.0,8091,0.4
+2011,Ouray,Government and government enterprises,83.0,8091,-6.5
+2011,Park,All industry total,1.0,8093,1.5
+2011,Park,Private industries,2.0,8093,2.6
+2011,Park,"Agriculture, forestry, fishing and hunting",3.0,8093,-42.2
+2011,Park,Real estate and rental and leasing,56.0,8093,2.2
+2011,Park,Government and government enterprises,83.0,8093,-5.2
+2011,Phillips,All industry total,1.0,8095,23.6
+2011,Phillips,Private industries,2.0,8095,27.5
+2011,Phillips,"Agriculture, forestry, fishing and hunting",3.0,8095,63
+2011,Phillips,Real estate and rental and leasing,56.0,8095,(D)
+2011,Phillips,Government and government enterprises,83.0,8095,0.8
+2011,Pitkin,All industry total,1.0,8097,0.6
+2011,Pitkin,Private industries,2.0,8097,0.8
+2011,Pitkin,"Agriculture, forestry, fishing and hunting",3.0,8097,(D)
+2011,Pitkin,Real estate and rental and leasing,56.0,8097,5.4
+2011,Pitkin,Government and government enterprises,83.0,8097,-0.5
+2011,Prowers,All industry total,1.0,8099,-2.6
+2011,Prowers,Private industries,2.0,8099,-2.4
+2011,Prowers,"Agriculture, forestry, fishing and hunting",3.0,8099,-10.5
+2011,Prowers,Real estate and rental and leasing,56.0,8099,1.3
+2011,Prowers,Government and government enterprises,83.0,8099,-3.4
+2011,Pueblo,All industry total,1.0,8101,4.7
+2011,Pueblo,Private industries,2.0,8101,5.6
+2011,Pueblo,"Agriculture, forestry, fishing and hunting",3.0,8101,500.2
+2011,Pueblo,Real estate and rental and leasing,56.0,8101,3.7
+2011,Pueblo,Government and government enterprises,83.0,8101,0.1
+2011,Routt,All industry total,1.0,8107,3.6
+2011,Routt,Private industries,2.0,8107,3.9
+2011,Routt,"Agriculture, forestry, fishing and hunting",3.0,8107,(D)
+2011,Routt,Real estate and rental and leasing,56.0,8107,0.2
+2011,Routt,Government and government enterprises,83.0,8107,-1.5
+2011,Saguache,All industry total,1.0,8109,23.7
+2011,Saguache,Private industries,2.0,8109,30.4
+2011,Saguache,"Agriculture, forestry, fishing and hunting",3.0,8109,91.4
+2011,Saguache,Real estate and rental and leasing,56.0,8109,2.4
+2011,Saguache,Government and government enterprises,83.0,8109,-4.9
+2011,Sedgwick,All industry total,1.0,8115,14.3
+2011,Sedgwick,Private industries,2.0,8115,16.3
+2011,Sedgwick,"Agriculture, forestry, fishing and hunting",3.0,8115,(D)
+2011,Sedgwick,Real estate and rental and leasing,56.0,8115,(D)
+2011,Sedgwick,Government and government enterprises,83.0,8115,1.4
+2011,Summit,All industry total,1.0,8117,0.3
+2011,Summit,Private industries,2.0,8117,0.5
+2011,Summit,"Agriculture, forestry, fishing and hunting",3.0,8117,(D)
+2011,Summit,Real estate and rental and leasing,56.0,8117,0.7
+2011,Summit,Government and government enterprises,83.0,8117,-1.8
+2011,Teller,All industry total,1.0,8119,1.8
+2011,Teller,Private industries,2.0,8119,2.4
+2011,Teller,"Agriculture, forestry, fishing and hunting",3.0,8119,-28.9
+2011,Teller,Real estate and rental and leasing,56.0,8119,6.5
+2011,Teller,Government and government enterprises,83.0,8119,-3.1
+2011,Washington,All industry total,1.0,8121,15.2
+2011,Washington,Private industries,2.0,8121,17
+2011,Washington,"Agriculture, forestry, fishing and hunting",3.0,8121,30
+2011,Washington,Real estate and rental and leasing,56.0,8121,(D)
+2011,Washington,Government and government enterprises,83.0,8121,0.5
+2011,Weld,All industry total,1.0,8123,9
+2011,Weld,Private industries,2.0,8123,10.2
+2011,Weld,"Agriculture, forestry, fishing and hunting",3.0,8123,(D)
+2011,Weld,Real estate and rental and leasing,56.0,8123,6.3
+2011,Weld,Government and government enterprises,83.0,8123,-3.2
+2011,Yuma,All industry total,1.0,8125,11.3
+2011,Yuma,Private industries,2.0,8125,12.3
+2011,Yuma,"Agriculture, forestry, fishing and hunting",3.0,8125,21.4
+2011,Yuma,Real estate and rental and leasing,56.0,8125,4.6
+2011,Yuma,Government and government enterprises,83.0,8125,-0.7
+2012,Adams,All industry total,1.0,8001,4
+2012,Adams,Private industries,2.0,8001,4.5
+2012,Adams,"Agriculture, forestry, fishing and hunting",3.0,8001,-13.2
+2012,Adams,Real estate and rental and leasing,56.0,8001,1.6
+2012,Adams,Government and government enterprises,83.0,8001,1.7
+2012,Alamosa,All industry total,1.0,8003,-1.4
+2012,Alamosa,Private industries,2.0,8003,-2.2
+2012,Alamosa,"Agriculture, forestry, fishing and hunting",3.0,8003,-49.5
+2012,Alamosa,Real estate and rental and leasing,56.0,8003,-0.4
+2012,Alamosa,Government and government enterprises,83.0,8003,1.8
+2012,Arapahoe,All industry total,1.0,8005,5.3
+2012,Arapahoe,Private industries,2.0,8005,5.5
+2012,Arapahoe,"Agriculture, forestry, fishing and hunting",3.0,8005,-43.5
+2012,Arapahoe,Real estate and rental and leasing,56.0,8005,6.1
+2012,Arapahoe,Government and government enterprises,83.0,8005,3.5
+2012,Archuleta,All industry total,1.0,8007,6.2
+2012,Archuleta,Private industries,2.0,8007,6.8
+2012,Archuleta,"Agriculture, forestry, fishing and hunting",3.0,8007,989.1
+2012,Archuleta,Real estate and rental and leasing,56.0,8007,7.6
+2012,Archuleta,Government and government enterprises,83.0,8007,1.7
+2012,Baca,All industry total,1.0,8009,-32.8
+2012,Baca,Private industries,2.0,8009,-38.3
+2012,Baca,"Agriculture, forestry, fishing and hunting",3.0,8009,-73.6
+2012,Baca,Real estate and rental and leasing,56.0,8009,(D)
+2012,Baca,Government and government enterprises,83.0,8009,-4.1
+2012,Bent,All industry total,1.0,8011,-9
+2012,Bent,Private industries,2.0,8011,-4.5
+2012,Bent,"Agriculture, forestry, fishing and hunting",3.0,8011,-17.6
+2012,Bent,Real estate and rental and leasing,56.0,8011,-1
+2012,Bent,Government and government enterprises,83.0,8011,-28.8
+2012,Boulder,All industry total,1.0,8013,2.5
+2012,Boulder,Private industries,2.0,8013,2.5
+2012,Boulder,"Agriculture, forestry, fishing and hunting",3.0,8013,-78.2
+2012,Boulder,Real estate and rental and leasing,56.0,8013,5.2
+2012,Boulder,Government and government enterprises,83.0,8013,2.2
+2012,Broomfield,All industry total,1.0,8014,9.2
+2012,Broomfield,Private industries,2.0,8014,9.2
+2012,Broomfield,"Agriculture, forestry, fishing and hunting",3.0,8014,-30.3
+2012,Broomfield,Real estate and rental and leasing,56.0,8014,3.2
+2012,Broomfield,Government and government enterprises,83.0,8014,6.9
+2012,Chaffee,All industry total,1.0,8015,4.2
+2012,Chaffee,Private industries,2.0,8015,4.6
+2012,Chaffee,"Agriculture, forestry, fishing and hunting",3.0,8015,23.4
+2012,Chaffee,Real estate and rental and leasing,56.0,8015,0.6
+2012,Chaffee,Government and government enterprises,83.0,8015,2.6
+2012,Cheyenne,All industry total,1.0,8017,-17.1
+2012,Cheyenne,Private industries,2.0,8017,-17.5
+2012,Cheyenne,"Agriculture, forestry, fishing and hunting",3.0,8017,-42.5
+2012,Cheyenne,Real estate and rental and leasing,56.0,8017,(D)
+2012,Cheyenne,Government and government enterprises,83.0,8017,-12
+2012,Conejos,All industry total,1.0,8021,-4.9
+2012,Conejos,Private industries,2.0,8021,-6
+2012,Conejos,"Agriculture, forestry, fishing and hunting",3.0,8021,-52.6
+2012,Conejos,Real estate and rental and leasing,56.0,8021,(D)
+2012,Conejos,Government and government enterprises,83.0,8021,0.4
+2012,Costilla,All industry total,1.0,8023,-16
+2012,Costilla,Private industries,2.0,8023,-19.3
+2012,Costilla,"Agriculture, forestry, fishing and hunting",3.0,8023,-75.9
+2012,Costilla,Real estate and rental and leasing,56.0,8023,(D)
+2012,Costilla,Government and government enterprises,83.0,8023,2
+2012,Crowley,All industry total,1.0,8025,32.6
+2012,Crowley,Private industries,2.0,8025,50.6
+2012,Crowley,"Agriculture, forestry, fishing and hunting",3.0,8025,(D)
+2012,Crowley,Real estate and rental and leasing,56.0,8025,(D)
+2012,Crowley,Government and government enterprises,83.0,8025,1.3
+2012,Custer,All industry total,1.0,8027,-1
+2012,Custer,Private industries,2.0,8027,-1
+2012,Custer,"Agriculture, forestry, fishing and hunting",3.0,8027,15.3
+2012,Custer,Real estate and rental and leasing,56.0,8027,-0.5
+2012,Custer,Government and government enterprises,83.0,8027,-0.4
+2012,Delta,All industry total,1.0,8029,5
+2012,Delta,Private industries,2.0,8029,5.7
+2012,Delta,"Agriculture, forestry, fishing and hunting",3.0,8029,-49.9
+2012,Delta,Real estate and rental and leasing,56.0,8029,2.1
+2012,Delta,Government and government enterprises,83.0,8029,1.6
+2012,Denver,All industry total,1.0,8031,5.4
+2012,Denver,Private industries,2.0,8031,5.7
+2012,Denver,"Agriculture, forestry, fishing and hunting",3.0,8031,79.9
+2012,Denver,Real estate and rental and leasing,56.0,8031,5
+2012,Denver,Government and government enterprises,83.0,8031,3.2
+2012,Dolores,All industry total,1.0,8033,-43.2
+2012,Dolores,Private industries,2.0,8033,-45.9
+2012,Dolores,"Agriculture, forestry, fishing and hunting",3.0,8033,(D)
+2012,Dolores,Real estate and rental and leasing,56.0,8033,(D)
+2012,Dolores,Government and government enterprises,83.0,8033,2.7
+2012,Douglas,All industry total,1.0,8035,9.4
+2012,Douglas,Private industries,2.0,8035,9.8
+2012,Douglas,"Agriculture, forestry, fishing and hunting",3.0,8035,(D)
+2012,Douglas,Real estate and rental and leasing,56.0,8035,-0.6
+2012,Douglas,Government and government enterprises,83.0,8035,2.7
+2012,Eagle,All industry total,1.0,8037,0
+2012,Eagle,Private industries,2.0,8037,0
+2012,Eagle,"Agriculture, forestry, fishing and hunting",3.0,8037,-21.4
+2012,Eagle,Real estate and rental and leasing,56.0,8037,-7.3
+2012,Eagle,Government and government enterprises,83.0,8037,-0.4
+2012,Elbert,All industry total,1.0,8039,4.7
+2012,Elbert,Private industries,2.0,8039,5.6
+2012,Elbert,"Agriculture, forestry, fishing and hunting",3.0,8039,-30.1
+2012,Elbert,Real estate and rental and leasing,56.0,8039,0.1
+2012,Elbert,Government and government enterprises,83.0,8039,-0.8
+2012,Fremont,All industry total,1.0,8043,0.9
+2012,Fremont,Private industries,2.0,8043,2.4
+2012,Fremont,"Agriculture, forestry, fishing and hunting",3.0,8043,(D)
+2012,Fremont,Real estate and rental and leasing,56.0,8043,-0.2
+2012,Fremont,Government and government enterprises,83.0,8043,-1.9
+2012,Garfield,All industry total,1.0,8045,-9.3
+2012,Garfield,Private industries,2.0,8045,-10.3
+2012,Garfield,"Agriculture, forestry, fishing and hunting",3.0,8045,14.4
+2012,Garfield,Real estate and rental and leasing,56.0,8045,5
+2012,Garfield,Government and government enterprises,83.0,8045,2.7
+2012,Gilpin,All industry total,1.0,8047,-5
+2012,Gilpin,Private industries,2.0,8047,-5.4
+2012,Gilpin,"Agriculture, forestry, fishing and hunting",3.0,8047,(D)
+2012,Gilpin,Real estate and rental and leasing,56.0,8047,(D)
+2012,Gilpin,Government and government enterprises,83.0,8047,1.4
+2012,Grand,All industry total,1.0,8049,0.6
+2012,Grand,Private industries,2.0,8049,-0.7
+2012,Grand,"Agriculture, forestry, fishing and hunting",3.0,8049,(D)
+2012,Grand,Real estate and rental and leasing,56.0,8049,2.7
+2012,Grand,Government and government enterprises,83.0,8049,8.8
+2012,Gunnison,All industry total,1.0,8051,0.3
+2012,Gunnison,Private industries,2.0,8051,0.2
+2012,Gunnison,"Agriculture, forestry, fishing and hunting",3.0,8051,0.7
+2012,Gunnison,Real estate and rental and leasing,56.0,8051,1.6
+2012,Gunnison,Government and government enterprises,83.0,8051,0.8
+2012,Hinsdale,All industry total,1.0,8053,-3.1
+2012,Hinsdale,Private industries,2.0,8053,-3.9
+2012,Hinsdale,"Agriculture, forestry, fishing and hunting",3.0,8053,(D)
+2012,Hinsdale,Real estate and rental and leasing,56.0,8053,(D)
+2012,Hinsdale,Government and government enterprises,83.0,8053,2.9
+2012,Huerfano,All industry total,1.0,8055,-26.1
+2012,Huerfano,Private industries,2.0,8055,-28.5
+2012,Huerfano,"Agriculture, forestry, fishing and hunting",3.0,8055,16.4
+2012,Huerfano,Real estate and rental and leasing,56.0,8055,-0.6
+2012,Huerfano,Government and government enterprises,83.0,8055,-1.6
+2012,Jackson,All industry total,1.0,8057,-23.9
+2012,Jackson,Private industries,2.0,8057,-28
+2012,Jackson,"Agriculture, forestry, fishing and hunting",3.0,8057,-86
+2012,Jackson,Real estate and rental and leasing,56.0,8057,(D)
+2012,Jackson,Government and government enterprises,83.0,8057,-2.3
+2012,Jefferson,All industry total,1.0,8059,2.5
+2012,Jefferson,Private industries,2.0,8059,2.9
+2012,Jefferson,"Agriculture, forestry, fishing and hunting",3.0,8059,-75.2
+2012,Jefferson,Real estate and rental and leasing,56.0,8059,2
+2012,Jefferson,Government and government enterprises,83.0,8059,-0.1
+2012,Kiowa,All industry total,1.0,8061,-4.5
+2012,Kiowa,Private industries,2.0,8061,-4.6
+2012,Kiowa,"Agriculture, forestry, fishing and hunting",3.0,8061,(D)
+2012,Kiowa,Real estate and rental and leasing,56.0,8061,(D)
+2012,Kiowa,Government and government enterprises,83.0,8061,-4.3
+2012,Lake,All industry total,1.0,8065,38.6
+2012,Lake,Private industries,2.0,8065,51.3
+2012,Lake,"Agriculture, forestry, fishing and hunting",3.0,8065,(D)
+2012,Lake,Real estate and rental and leasing,56.0,8065,-1.4
+2012,Lake,Government and government enterprises,83.0,8065,-5.9
+2012,Larimer,All industry total,1.0,8069,4.4
+2012,Larimer,Private industries,2.0,8069,4.7
+2012,Larimer,"Agriculture, forestry, fishing and hunting",3.0,8069,4.4
+2012,Larimer,Real estate and rental and leasing,56.0,8069,2
+2012,Larimer,Government and government enterprises,83.0,8069,2.8
+2012,Lincoln,All industry total,1.0,8073,18
+2012,Lincoln,Private industries,2.0,8073,23.7
+2012,Lincoln,"Agriculture, forestry, fishing and hunting",3.0,8073,(D)
+2012,Lincoln,Real estate and rental and leasing,56.0,8073,-1.6
+2012,Lincoln,Government and government enterprises,83.0,8073,0.9
+2012,Logan,All industry total,1.0,8075,6.4
+2012,Logan,Private industries,2.0,8075,7.5
+2012,Logan,"Agriculture, forestry, fishing and hunting",3.0,8075,33.5
+2012,Logan,Real estate and rental and leasing,56.0,8075,0
+2012,Logan,Government and government enterprises,83.0,8075,-0.8
+2012,Mesa,All industry total,1.0,8077,1.9
+2012,Mesa,Private industries,2.0,8077,2.1
+2012,Mesa,"Agriculture, forestry, fishing and hunting",3.0,8077,(D)
+2012,Mesa,Real estate and rental and leasing,56.0,8077,-0.5
+2012,Mesa,Government and government enterprises,83.0,8077,0.6
+2012,Mineral,All industry total,1.0,8079,6.6
+2012,Mineral,Private industries,2.0,8079,7.4
+2012,Mineral,"Agriculture, forestry, fishing and hunting",3.0,8079,(D)
+2012,Mineral,Real estate and rental and leasing,56.0,8079,(D)
+2012,Mineral,Government and government enterprises,83.0,8079,-1.5
+2012,Moffat,All industry total,1.0,8081,-8.4
+2012,Moffat,Private industries,2.0,8081,-9.2
+2012,Moffat,"Agriculture, forestry, fishing and hunting",3.0,8081,-92
+2012,Moffat,Real estate and rental and leasing,56.0,8081,-0.7
+2012,Moffat,Government and government enterprises,83.0,8081,2.2
+2012,Montezuma,All industry total,1.0,8083,-16.8
+2012,Montezuma,Private industries,2.0,8083,-18.3
+2012,Montezuma,"Agriculture, forestry, fishing and hunting",3.0,8083,-7.4
+2012,Montezuma,Real estate and rental and leasing,56.0,8083,2.4
+2012,Montezuma,Government and government enterprises,83.0,8083,-0.5
+2012,Montrose,All industry total,1.0,8085,1.8
+2012,Montrose,Private industries,2.0,8085,2.5
+2012,Montrose,"Agriculture, forestry, fishing and hunting",3.0,8085,79.1
+2012,Montrose,Real estate and rental and leasing,56.0,8085,0.6
+2012,Montrose,Government and government enterprises,83.0,8085,-1.6
+2012,Morgan,All industry total,1.0,8087,4.3
+2012,Morgan,Private industries,2.0,8087,4.8
+2012,Morgan,"Agriculture, forestry, fishing and hunting",3.0,8087,29.2
+2012,Morgan,Real estate and rental and leasing,56.0,8087,-2.1
+2012,Morgan,Government and government enterprises,83.0,8087,-0.8
+2012,Otero,All industry total,1.0,8089,1
+2012,Otero,Private industries,2.0,8089,1
+2012,Otero,"Agriculture, forestry, fishing and hunting",3.0,8089,-12.8
+2012,Otero,Real estate and rental and leasing,56.0,8089,0.9
+2012,Otero,Government and government enterprises,83.0,8089,1.3
+2012,Ouray,All industry total,1.0,8091,10.3
+2012,Ouray,Private industries,2.0,8091,11.7
+2012,Ouray,"Agriculture, forestry, fishing and hunting",3.0,8091,74.8
+2012,Ouray,Real estate and rental and leasing,56.0,8091,-1
+2012,Ouray,Government and government enterprises,83.0,8091,0.8
+2012,Park,All industry total,1.0,8093,1.7
+2012,Park,Private industries,2.0,8093,2
+2012,Park,"Agriculture, forestry, fishing and hunting",3.0,8093,-28.6
+2012,Park,Real estate and rental and leasing,56.0,8093,-0.3
+2012,Park,Government and government enterprises,83.0,8093,-0.6
+2012,Phillips,All industry total,1.0,8095,-8.3
+2012,Phillips,Private industries,2.0,8095,-10.3
+2012,Phillips,"Agriculture, forestry, fishing and hunting",3.0,8095,-26.9
+2012,Phillips,Real estate and rental and leasing,56.0,8095,(D)
+2012,Phillips,Government and government enterprises,83.0,8095,7.6
+2012,Pitkin,All industry total,1.0,8097,5.3
+2012,Pitkin,Private industries,2.0,8097,5.4
+2012,Pitkin,"Agriculture, forestry, fishing and hunting",3.0,8097,(D)
+2012,Pitkin,Real estate and rental and leasing,56.0,8097,12.9
+2012,Pitkin,Government and government enterprises,83.0,8097,4.3
+2012,Prowers,All industry total,1.0,8099,7.9
+2012,Prowers,Private industries,2.0,8099,9.8
+2012,Prowers,"Agriculture, forestry, fishing and hunting",3.0,8099,25.8
+2012,Prowers,Real estate and rental and leasing,56.0,8099,-0.7
+2012,Prowers,Government and government enterprises,83.0,8099,-2.5
+2012,Pueblo,All industry total,1.0,8101,4.2
+2012,Pueblo,Private industries,2.0,8101,4.9
+2012,Pueblo,"Agriculture, forestry, fishing and hunting",3.0,8101,-87.3
+2012,Pueblo,Real estate and rental and leasing,56.0,8101,-0.5
+2012,Pueblo,Government and government enterprises,83.0,8101,0.1
+2012,Routt,All industry total,1.0,8107,-2
+2012,Routt,Private industries,2.0,8107,-2.3
+2012,Routt,"Agriculture, forestry, fishing and hunting",3.0,8107,(D)
+2012,Routt,Real estate and rental and leasing,56.0,8107,4.4
+2012,Routt,Government and government enterprises,83.0,8107,2.9
+2012,Saguache,All industry total,1.0,8109,-15.2
+2012,Saguache,Private industries,2.0,8109,-18.2
+2012,Saguache,"Agriculture, forestry, fishing and hunting",3.0,8109,-48.1
+2012,Saguache,Real estate and rental and leasing,56.0,8109,-1.1
+2012,Saguache,Government and government enterprises,83.0,8109,1.8
+2012,Sedgwick,All industry total,1.0,8115,-1.4
+2012,Sedgwick,Private industries,2.0,8115,-2.2
+2012,Sedgwick,"Agriculture, forestry, fishing and hunting",3.0,8115,(D)
+2012,Sedgwick,Real estate and rental and leasing,56.0,8115,(D)
+2012,Sedgwick,Government and government enterprises,83.0,8115,3.9
+2012,Summit,All industry total,1.0,8117,0.6
+2012,Summit,Private industries,2.0,8117,0.5
+2012,Summit,"Agriculture, forestry, fishing and hunting",3.0,8117,(D)
+2012,Summit,Real estate and rental and leasing,56.0,8117,-0.8
+2012,Summit,Government and government enterprises,83.0,8117,1.5
+2012,Teller,All industry total,1.0,8119,-0.7
+2012,Teller,Private industries,2.0,8119,-0.9
+2012,Teller,"Agriculture, forestry, fishing and hunting",3.0,8119,21.7
+2012,Teller,Real estate and rental and leasing,56.0,8119,-0.7
+2012,Teller,Government and government enterprises,83.0,8119,1.5
+2012,Washington,All industry total,1.0,8121,-9.8
+2012,Washington,Private industries,2.0,8121,-10.8
+2012,Washington,"Agriculture, forestry, fishing and hunting",3.0,8121,-27
+2012,Washington,Real estate and rental and leasing,56.0,8121,(D)
+2012,Washington,Government and government enterprises,83.0,8121,-0.2
+2012,Weld,All industry total,1.0,8123,8.8
+2012,Weld,Private industries,2.0,8123,9.3
+2012,Weld,"Agriculture, forestry, fishing and hunting",3.0,8123,5.3
+2012,Weld,Real estate and rental and leasing,56.0,8123,0
+2012,Weld,Government and government enterprises,83.0,8123,2.4
+2012,Yuma,All industry total,1.0,8125,5.9
+2012,Yuma,Private industries,2.0,8125,6.1
+2012,Yuma,"Agriculture, forestry, fishing and hunting",3.0,8125,25.5
+2012,Yuma,Real estate and rental and leasing,56.0,8125,2.6
+2012,Yuma,Government and government enterprises,83.0,8125,3.4
+2013,Adams,All industry total,1.0,8001,5.8
+2013,Adams,Private industries,2.0,8001,5.7
+2013,Adams,"Agriculture, forestry, fishing and hunting",3.0,8001,-31.4
+2013,Adams,Real estate and rental and leasing,56.0,8001,-1.6
+2013,Adams,Government and government enterprises,83.0,8001,6.2
+2013,Alamosa,All industry total,1.0,8003,3.8
+2013,Alamosa,Private industries,2.0,8003,4.5
+2013,Alamosa,"Agriculture, forestry, fishing and hunting",3.0,8003,53.8
+2013,Alamosa,Real estate and rental and leasing,56.0,8003,-2.5
+2013,Alamosa,Government and government enterprises,83.0,8003,1.2
+2013,Arapahoe,All industry total,1.0,8005,8.3
+2013,Arapahoe,Private industries,2.0,8005,8.9
+2013,Arapahoe,"Agriculture, forestry, fishing and hunting",3.0,8005,-33.9
+2013,Arapahoe,Real estate and rental and leasing,56.0,8005,41.7
+2013,Arapahoe,Government and government enterprises,83.0,8005,1.9
+2013,Archuleta,All industry total,1.0,8007,-3.2
+2013,Archuleta,Private industries,2.0,8007,-4.2
+2013,Archuleta,"Agriculture, forestry, fishing and hunting",3.0,8007,77.1
+2013,Archuleta,Real estate and rental and leasing,56.0,8007,-6.4
+2013,Archuleta,Government and government enterprises,83.0,8007,5.5
+2013,Baca,All industry total,1.0,8009,37.7
+2013,Baca,Private industries,2.0,8009,48.7
+2013,Baca,"Agriculture, forestry, fishing and hunting",3.0,8009,206.9
+2013,Baca,Real estate and rental and leasing,56.0,8009,(D)
+2013,Baca,Government and government enterprises,83.0,8009,1
+2013,Bent,All industry total,1.0,8011,5.7
+2013,Bent,Private industries,2.0,8011,7.5
+2013,Bent,"Agriculture, forestry, fishing and hunting",3.0,8011,21.8
+2013,Bent,Real estate and rental and leasing,56.0,8011,(D)
+2013,Bent,Government and government enterprises,83.0,8011,-5
+2013,Boulder,All industry total,1.0,8013,4.4
+2013,Boulder,Private industries,2.0,8013,4.6
+2013,Boulder,"Agriculture, forestry, fishing and hunting",3.0,8013,61.2
+2013,Boulder,Real estate and rental and leasing,56.0,8013,-1
+2013,Boulder,Government and government enterprises,83.0,8013,3.3
+2013,Broomfield,All industry total,1.0,8014,-1.8
+2013,Broomfield,Private industries,2.0,8014,-1.9
+2013,Broomfield,"Agriculture, forestry, fishing and hunting",3.0,8014,(D)
+2013,Broomfield,Real estate and rental and leasing,56.0,8014,0.3
+2013,Broomfield,Government and government enterprises,83.0,8014,8.4
+2013,Chaffee,All industry total,1.0,8015,4.8
+2013,Chaffee,Private industries,2.0,8015,4.8
+2013,Chaffee,"Agriculture, forestry, fishing and hunting",3.0,8015,36.5
+2013,Chaffee,Real estate and rental and leasing,56.0,8015,-5.7
+2013,Chaffee,Government and government enterprises,83.0,8015,4.9
+2013,Cheyenne,All industry total,1.0,8017,20.3
+2013,Cheyenne,Private industries,2.0,8017,21.9
+2013,Cheyenne,"Agriculture, forestry, fishing and hunting",3.0,8017,76.9
+2013,Cheyenne,Real estate and rental and leasing,56.0,8017,(D)
+2013,Cheyenne,Government and government enterprises,83.0,8017,-1.4
+2013,Conejos,All industry total,1.0,8021,11.4
+2013,Conejos,Private industries,2.0,8021,13
+2013,Conejos,"Agriculture, forestry, fishing and hunting",3.0,8021,83.7
+2013,Conejos,Real estate and rental and leasing,56.0,8021,(D)
+2013,Conejos,Government and government enterprises,83.0,8021,4.2
+2013,Costilla,All industry total,1.0,8023,14.5
+2013,Costilla,Private industries,2.0,8023,17.1
+2013,Costilla,"Agriculture, forestry, fishing and hunting",3.0,8023,116.8
+2013,Costilla,Real estate and rental and leasing,56.0,8023,(D)
+2013,Costilla,Government and government enterprises,83.0,8023,2.8
+2013,Crowley,All industry total,1.0,8025,6.3
+2013,Crowley,Private industries,2.0,8025,7.8
+2013,Crowley,"Agriculture, forestry, fishing and hunting",3.0,8025,(D)
+2013,Crowley,Real estate and rental and leasing,56.0,8025,(D)
+2013,Crowley,Government and government enterprises,83.0,8025,2.5
+2013,Custer,All industry total,1.0,8027,7.5
+2013,Custer,Private industries,2.0,8027,8.3
+2013,Custer,"Agriculture, forestry, fishing and hunting",3.0,8027,33.7
+2013,Custer,Real estate and rental and leasing,56.0,8027,-2.9
+2013,Custer,Government and government enterprises,83.0,8027,1.1
+2013,Delta,All industry total,1.0,8029,-2.3
+2013,Delta,Private industries,2.0,8029,-2.7
+2013,Delta,"Agriculture, forestry, fishing and hunting",3.0,8029,-16.2
+2013,Delta,Real estate and rental and leasing,56.0,8029,-1.2
+2013,Delta,Government and government enterprises,83.0,8029,-0.2
+2013,Denver,All industry total,1.0,8031,7.6
+2013,Denver,Private industries,2.0,8031,8
+2013,Denver,"Agriculture, forestry, fishing and hunting",3.0,8031,-22.2
+2013,Denver,Real estate and rental and leasing,56.0,8031,-0.7
+2013,Denver,Government and government enterprises,83.0,8031,3.6
+2013,Dolores,All industry total,1.0,8033,22.3
+2013,Dolores,Private industries,2.0,8033,24.1
+2013,Dolores,"Agriculture, forestry, fishing and hunting",3.0,8033,(D)
+2013,Dolores,Real estate and rental and leasing,56.0,8033,(D)
+2013,Dolores,Government and government enterprises,83.0,8033,6.3
+2013,Douglas,All industry total,1.0,8035,3.7
+2013,Douglas,Private industries,2.0,8035,3.6
+2013,Douglas,"Agriculture, forestry, fishing and hunting",3.0,8035,(D)
+2013,Douglas,Real estate and rental and leasing,56.0,8035,11.2
+2013,Douglas,Government and government enterprises,83.0,8035,5.3
+2013,Eagle,All industry total,1.0,8037,13.3
+2013,Eagle,Private industries,2.0,8037,14.4
+2013,Eagle,"Agriculture, forestry, fishing and hunting",3.0,8037,48.5
+2013,Eagle,Real estate and rental and leasing,56.0,8037,10.1
+2013,Eagle,Government and government enterprises,83.0,8037,1.4
+2013,Elbert,All industry total,1.0,8039,3.1
+2013,Elbert,Private industries,2.0,8039,3.6
+2013,Elbert,"Agriculture, forestry, fishing and hunting",3.0,8039,44.4
+2013,Elbert,Real estate and rental and leasing,56.0,8039,-2.1
+2013,Elbert,Government and government enterprises,83.0,8039,-0.2
+2013,Fremont,All industry total,1.0,8043,-2.3
+2013,Fremont,Private industries,2.0,8043,-2.7
+2013,Fremont,"Agriculture, forestry, fishing and hunting",3.0,8043,(D)
+2013,Fremont,Real estate and rental and leasing,56.0,8043,-3.6
+2013,Fremont,Government and government enterprises,83.0,8043,-1.6
+2013,Garfield,All industry total,1.0,8045,4.9
+2013,Garfield,Private industries,2.0,8045,5
+2013,Garfield,"Agriculture, forestry, fishing and hunting",3.0,8045,63.9
+2013,Garfield,Real estate and rental and leasing,56.0,8045,-5.8
+2013,Garfield,Government and government enterprises,83.0,8045,2.9
+2013,Gilpin,All industry total,1.0,8047,2.7
+2013,Gilpin,Private industries,2.0,8047,2.6
+2013,Gilpin,"Agriculture, forestry, fishing and hunting",3.0,8047,(D)
+2013,Gilpin,Real estate and rental and leasing,56.0,8047,(D)
+2013,Gilpin,Government and government enterprises,83.0,8047,3.4
+2013,Grand,All industry total,1.0,8049,5.4
+2013,Grand,Private industries,2.0,8049,5.8
+2013,Grand,"Agriculture, forestry, fishing and hunting",3.0,8049,234.1
+2013,Grand,Real estate and rental and leasing,56.0,8049,-0.6
+2013,Grand,Government and government enterprises,83.0,8049,2.4
+2013,Gunnison,All industry total,1.0,8051,-13.5
+2013,Gunnison,Private industries,2.0,8051,-15.1
+2013,Gunnison,"Agriculture, forestry, fishing and hunting",3.0,8051,72.3
+2013,Gunnison,Real estate and rental and leasing,56.0,8051,0.1
+2013,Gunnison,Government and government enterprises,83.0,8051,0.1
+2013,Hinsdale,All industry total,1.0,8053,4.5
+2013,Hinsdale,Private industries,2.0,8053,4.7
+2013,Hinsdale,"Agriculture, forestry, fishing and hunting",3.0,8053,(D)
+2013,Hinsdale,Real estate and rental and leasing,56.0,8053,(D)
+2013,Hinsdale,Government and government enterprises,83.0,8053,3
+2013,Huerfano,All industry total,1.0,8055,7
+2013,Huerfano,Private industries,2.0,8055,7.9
+2013,Huerfano,"Agriculture, forestry, fishing and hunting",3.0,8055,156.9
+2013,Huerfano,Real estate and rental and leasing,56.0,8055,-2.3
+2013,Huerfano,Government and government enterprises,83.0,8055,0.1
+2013,Jackson,All industry total,1.0,8057,13
+2013,Jackson,Private industries,2.0,8057,16.4
+2013,Jackson,"Agriculture, forestry, fishing and hunting",3.0,8057,71.3
+2013,Jackson,Real estate and rental and leasing,56.0,8057,(D)
+2013,Jackson,Government and government enterprises,83.0,8057,-0.4
+2013,Jefferson,All industry total,1.0,8059,3.1
+2013,Jefferson,Private industries,2.0,8059,3.7
+2013,Jefferson,"Agriculture, forestry, fishing and hunting",3.0,8059,106.7
+2013,Jefferson,Real estate and rental and leasing,56.0,8059,-2.3
+2013,Jefferson,Government and government enterprises,83.0,8059,-1.3
+2013,Kiowa,All industry total,1.0,8061,30.8
+2013,Kiowa,Private industries,2.0,8061,37.3
+2013,Kiowa,"Agriculture, forestry, fishing and hunting",3.0,8061,(D)
+2013,Kiowa,Real estate and rental and leasing,56.0,8061,(D)
+2013,Kiowa,Government and government enterprises,83.0,8061,-2.3
+2013,Lake,All industry total,1.0,8065,-1.4
+2013,Lake,Private industries,2.0,8065,-1.4
+2013,Lake,"Agriculture, forestry, fishing and hunting",3.0,8065,(D)
+2013,Lake,Real estate and rental and leasing,56.0,8065,-1.9
+2013,Lake,Government and government enterprises,83.0,8065,-1.2
+2013,Larimer,All industry total,1.0,8069,6.9
+2013,Larimer,Private industries,2.0,8069,4.1
+2013,Larimer,"Agriculture, forestry, fishing and hunting",3.0,8069,-9.9
+2013,Larimer,Real estate and rental and leasing,56.0,8069,-0.8
+2013,Larimer,Government and government enterprises,83.0,8069,22.6
+2013,Lincoln,All industry total,1.0,8073,15.5
+2013,Lincoln,Private industries,2.0,8073,19.1
+2013,Lincoln,"Agriculture, forestry, fishing and hunting",3.0,8073,(D)
+2013,Lincoln,Real estate and rental and leasing,56.0,8073,-4
+2013,Lincoln,Government and government enterprises,83.0,8073,2.3
+2013,Logan,All industry total,1.0,8075,1.6
+2013,Logan,Private industries,2.0,8075,1.5
+2013,Logan,"Agriculture, forestry, fishing and hunting",3.0,8075,-8
+2013,Logan,Real estate and rental and leasing,56.0,8075,-2.2
+2013,Logan,Government and government enterprises,83.0,8075,2.6
+2013,Mesa,All industry total,1.0,8077,0.3
+2013,Mesa,Private industries,2.0,8077,0.2
+2013,Mesa,"Agriculture, forestry, fishing and hunting",3.0,8077,33.2
+2013,Mesa,Real estate and rental and leasing,56.0,8077,-1.9
+2013,Mesa,Government and government enterprises,83.0,8077,1.1
+2013,Mineral,All industry total,1.0,8079,12.2
+2013,Mineral,Private industries,2.0,8079,12.3
+2013,Mineral,"Agriculture, forestry, fishing and hunting",3.0,8079,(D)
+2013,Mineral,Real estate and rental and leasing,56.0,8079,(D)
+2013,Mineral,Government and government enterprises,83.0,8079,10.4
+2013,Moffat,All industry total,1.0,8081,-2.5
+2013,Moffat,Private industries,2.0,8081,-2.2
+2013,Moffat,"Agriculture, forestry, fishing and hunting",3.0,8081,21
+2013,Moffat,Real estate and rental and leasing,56.0,8081,-3.8
+2013,Moffat,Government and government enterprises,83.0,8081,-5.2
+2013,Montezuma,All industry total,1.0,8083,-13.1
+2013,Montezuma,Private industries,2.0,8083,-14.6
+2013,Montezuma,"Agriculture, forestry, fishing and hunting",3.0,8083,26.4
+2013,Montezuma,Real estate and rental and leasing,56.0,8083,-6.2
+2013,Montezuma,Government and government enterprises,83.0,8083,-0.1
+2013,Montrose,All industry total,1.0,8085,-0.1
+2013,Montrose,Private industries,2.0,8085,-0.4
+2013,Montrose,"Agriculture, forestry, fishing and hunting",3.0,8085,-6.4
+2013,Montrose,Real estate and rental and leasing,56.0,8085,-2.8
+2013,Montrose,Government and government enterprises,83.0,8085,1.1
+2013,Morgan,All industry total,1.0,8087,2.3
+2013,Morgan,Private industries,2.0,8087,2.6
+2013,Morgan,"Agriculture, forestry, fishing and hunting",3.0,8087,1.5
+2013,Morgan,Real estate and rental and leasing,56.0,8087,-2.5
+2013,Morgan,Government and government enterprises,83.0,8087,-1.1
+2013,Otero,All industry total,1.0,8089,5.5
+2013,Otero,Private industries,2.0,8089,6.3
+2013,Otero,"Agriculture, forestry, fishing and hunting",3.0,8089,27.4
+2013,Otero,Real estate and rental and leasing,56.0,8089,-2.9
+2013,Otero,Government and government enterprises,83.0,8089,1.6
+2013,Ouray,All industry total,1.0,8091,17.7
+2013,Ouray,Private industries,2.0,8091,19.8
+2013,Ouray,"Agriculture, forestry, fishing and hunting",3.0,8091,(D)
+2013,Ouray,Real estate and rental and leasing,56.0,8091,-2.8
+2013,Ouray,Government and government enterprises,83.0,8091,2.2
+2013,Park,All industry total,1.0,8093,0.4
+2013,Park,Private industries,2.0,8093,0.9
+2013,Park,"Agriculture, forestry, fishing and hunting",3.0,8093,(D)
+2013,Park,Real estate and rental and leasing,56.0,8093,-2.3
+2013,Park,Government and government enterprises,83.0,8093,-2.6
+2013,Phillips,All industry total,1.0,8095,-10
+2013,Phillips,Private industries,2.0,8095,-11.3
+2013,Phillips,"Agriculture, forestry, fishing and hunting",3.0,8095,-34.2
+2013,Phillips,Real estate and rental and leasing,56.0,8095,(D)
+2013,Phillips,Government and government enterprises,83.0,8095,-1.6
+2013,Pitkin,All industry total,1.0,8097,7.6
+2013,Pitkin,Private industries,2.0,8097,8.2
+2013,Pitkin,"Agriculture, forestry, fishing and hunting",3.0,8097,(D)
+2013,Pitkin,Real estate and rental and leasing,56.0,8097,9
+2013,Pitkin,Government and government enterprises,83.0,8097,2.3
+2013,Prowers,All industry total,1.0,8099,8.3
+2013,Prowers,Private industries,2.0,8099,9.7
+2013,Prowers,"Agriculture, forestry, fishing and hunting",3.0,8099,27.8
+2013,Prowers,Real estate and rental and leasing,56.0,8099,-3
+2013,Prowers,Government and government enterprises,83.0,8099,-0.1
+2013,Pueblo,All industry total,1.0,8101,0.1
+2013,Pueblo,Private industries,2.0,8101,0.1
+2013,Pueblo,"Agriculture, forestry, fishing and hunting",3.0,8101,16
+2013,Pueblo,Real estate and rental and leasing,56.0,8101,-1.9
+2013,Pueblo,Government and government enterprises,83.0,8101,0
+2013,Routt,All industry total,1.0,8107,-2.8
+2013,Routt,Private industries,2.0,8107,-2.9
+2013,Routt,"Agriculture, forestry, fishing and hunting",3.0,8107,7.2
+2013,Routt,Real estate and rental and leasing,56.0,8107,2.1
+2013,Routt,Government and government enterprises,83.0,8107,-0.4
+2013,Saguache,All industry total,1.0,8109,13.3
+2013,Saguache,Private industries,2.0,8109,15.5
+2013,Saguache,"Agriculture, forestry, fishing and hunting",3.0,8109,63.5
+2013,Saguache,Real estate and rental and leasing,56.0,8109,-2.1
+2013,Saguache,Government and government enterprises,83.0,8109,3.1
+2013,Sedgwick,All industry total,1.0,8115,-5.7
+2013,Sedgwick,Private industries,2.0,8115,-6.6
+2013,Sedgwick,"Agriculture, forestry, fishing and hunting",3.0,8115,(D)
+2013,Sedgwick,Real estate and rental and leasing,56.0,8115,(D)
+2013,Sedgwick,Government and government enterprises,83.0,8115,1.1
+2013,Summit,All industry total,1.0,8117,3.1
+2013,Summit,Private industries,2.0,8117,3.2
+2013,Summit,"Agriculture, forestry, fishing and hunting",3.0,8117,(D)
+2013,Summit,Real estate and rental and leasing,56.0,8117,-0.7
+2013,Summit,Government and government enterprises,83.0,8117,1.5
+2013,Teller,All industry total,1.0,8119,0.7
+2013,Teller,Private industries,2.0,8119,0.8
+2013,Teller,"Agriculture, forestry, fishing and hunting",3.0,8119,(D)
+2013,Teller,Real estate and rental and leasing,56.0,8119,-2
+2013,Teller,Government and government enterprises,83.0,8119,-0.1
+2013,Washington,All industry total,1.0,8121,-2.5
+2013,Washington,Private industries,2.0,8121,-2.8
+2013,Washington,"Agriculture, forestry, fishing and hunting",3.0,8121,-10.1
+2013,Washington,Real estate and rental and leasing,56.0,8121,(D)
+2013,Washington,Government and government enterprises,83.0,8121,0.2
+2013,Weld,All industry total,1.0,8123,15.1
+2013,Weld,Private industries,2.0,8123,15.9
+2013,Weld,"Agriculture, forestry, fishing and hunting",3.0,8123,4.7
+2013,Weld,Real estate and rental and leasing,56.0,8123,-3
+2013,Weld,Government and government enterprises,83.0,8123,5.7
+2013,Yuma,All industry total,1.0,8125,-6.7
+2013,Yuma,Private industries,2.0,8125,-7.5
+2013,Yuma,"Agriculture, forestry, fishing and hunting",3.0,8125,-26.9
+2013,Yuma,Real estate and rental and leasing,56.0,8125,-4.5
+2013,Yuma,Government and government enterprises,83.0,8125,3.9
+2014,Adams,All industry total,1.0,8001,9.8
+2014,Adams,Private industries,2.0,8001,10.3
+2014,Adams,"Agriculture, forestry, fishing and hunting",3.0,8001,(D)
+2014,Adams,Real estate and rental and leasing,56.0,8001,2.8
+2014,Adams,Government and government enterprises,83.0,8001,6.9
+2014,Alamosa,All industry total,1.0,8003,4.1
+2014,Alamosa,Private industries,2.0,8003,4.5
+2014,Alamosa,"Agriculture, forestry, fishing and hunting",3.0,8003,-18.4
+2014,Alamosa,Real estate and rental and leasing,56.0,8003,0.1
+2014,Alamosa,Government and government enterprises,83.0,8003,2.5
+2014,Arapahoe,All industry total,1.0,8005,6.4
+2014,Arapahoe,Private industries,2.0,8005,6.6
+2014,Arapahoe,"Agriculture, forestry, fishing and hunting",3.0,8005,-18.8
+2014,Arapahoe,Real estate and rental and leasing,56.0,8005,6.8
+2014,Arapahoe,Government and government enterprises,83.0,8005,3.8
+2014,Archuleta,All industry total,1.0,8007,9.8
+2014,Archuleta,Private industries,2.0,8007,9.9
+2014,Archuleta,"Agriculture, forestry, fishing and hunting",3.0,8007,-52.4
+2014,Archuleta,Real estate and rental and leasing,56.0,8007,1.9
+2014,Archuleta,Government and government enterprises,83.0,8007,9.2
+2014,Baca,All industry total,1.0,8009,-20.6
+2014,Baca,Private industries,2.0,8009,-25.7
+2014,Baca,"Agriculture, forestry, fishing and hunting",3.0,8009,-50.2
+2014,Baca,Real estate and rental and leasing,56.0,8009,(D)
+2014,Baca,Government and government enterprises,83.0,8009,4.5
+2014,Bent,All industry total,1.0,8011,-7.5
+2014,Bent,Private industries,2.0,8011,-8.8
+2014,Bent,"Agriculture, forestry, fishing and hunting",3.0,8011,-19.6
+2014,Bent,Real estate and rental and leasing,56.0,8011,(D)
+2014,Bent,Government and government enterprises,83.0,8011,0.8
+2014,Boulder,All industry total,1.0,8013,4.8
+2014,Boulder,Private industries,2.0,8013,4.7
+2014,Boulder,"Agriculture, forestry, fishing and hunting",3.0,8013,-32.3
+2014,Boulder,Real estate and rental and leasing,56.0,8013,5.2
+2014,Boulder,Government and government enterprises,83.0,8013,5.6
+2014,Broomfield,All industry total,1.0,8014,-6.8
+2014,Broomfield,Private industries,2.0,8014,-7
+2014,Broomfield,"Agriculture, forestry, fishing and hunting",3.0,8014,(D)
+2014,Broomfield,Real estate and rental and leasing,56.0,8014,0.5
+2014,Broomfield,Government and government enterprises,83.0,8014,6.5
+2014,Chaffee,All industry total,1.0,8015,5.7
+2014,Chaffee,Private industries,2.0,8015,5.5
+2014,Chaffee,"Agriculture, forestry, fishing and hunting",3.0,8015,-19.2
+2014,Chaffee,Real estate and rental and leasing,56.0,8015,-0.9
+2014,Chaffee,Government and government enterprises,83.0,8015,6.5
+2014,Cheyenne,All industry total,1.0,8017,-16.2
+2014,Cheyenne,Private industries,2.0,8017,-17.6
+2014,Cheyenne,"Agriculture, forestry, fishing and hunting",3.0,8017,-50.5
+2014,Cheyenne,Real estate and rental and leasing,56.0,8017,(D)
+2014,Cheyenne,Government and government enterprises,83.0,8017,6.6
+2014,Conejos,All industry total,1.0,8021,5.4
+2014,Conejos,Private industries,2.0,8021,6.8
+2014,Conejos,"Agriculture, forestry, fishing and hunting",3.0,8021,38.8
+2014,Conejos,Real estate and rental and leasing,56.0,8021,(D)
+2014,Conejos,Government and government enterprises,83.0,8021,-1.5
+2014,Costilla,All industry total,1.0,8023,-0.4
+2014,Costilla,Private industries,2.0,8023,-1.4
+2014,Costilla,"Agriculture, forestry, fishing and hunting",3.0,8023,-21.1
+2014,Costilla,Real estate and rental and leasing,56.0,8023,(D)
+2014,Costilla,Government and government enterprises,83.0,8023,4.2
+2014,Crowley,All industry total,1.0,8025,0.5
+2014,Crowley,Private industries,2.0,8025,-1.1
+2014,Crowley,"Agriculture, forestry, fishing and hunting",3.0,8025,(D)
+2014,Crowley,Real estate and rental and leasing,56.0,8025,(D)
+2014,Crowley,Government and government enterprises,83.0,8025,5
+2014,Custer,All industry total,1.0,8027,7.7
+2014,Custer,Private industries,2.0,8027,7.9
+2014,Custer,"Agriculture, forestry, fishing and hunting",3.0,8027,-31.4
+2014,Custer,Real estate and rental and leasing,56.0,8027,(D)
+2014,Custer,Government and government enterprises,83.0,8027,5.8
+2014,Delta,All industry total,1.0,8029,-3.5
+2014,Delta,Private industries,2.0,8029,-4.6
+2014,Delta,"Agriculture, forestry, fishing and hunting",3.0,8029,253
+2014,Delta,Real estate and rental and leasing,56.0,8029,0.8
+2014,Delta,Government and government enterprises,83.0,8029,2
+2014,Denver,All industry total,1.0,8031,6.6
+2014,Denver,Private industries,2.0,8031,6.6
+2014,Denver,"Agriculture, forestry, fishing and hunting",3.0,8031,-1.4
+2014,Denver,Real estate and rental and leasing,56.0,8031,5.2
+2014,Denver,Government and government enterprises,83.0,8031,6.6
+2014,Dolores,All industry total,1.0,8033,97.6
+2014,Dolores,Private industries,2.0,8033,106.2
+2014,Dolores,"Agriculture, forestry, fishing and hunting",3.0,8033,(D)
+2014,Dolores,Real estate and rental and leasing,56.0,8033,(D)
+2014,Dolores,Government and government enterprises,83.0,8033,7.8
+2014,Douglas,All industry total,1.0,8035,6.9
+2014,Douglas,Private industries,2.0,8035,7
+2014,Douglas,"Agriculture, forestry, fishing and hunting",3.0,8035,-0.5
+2014,Douglas,Real estate and rental and leasing,56.0,8035,7.8
+2014,Douglas,Government and government enterprises,83.0,8035,5.7
+2014,Eagle,All industry total,1.0,8037,8.2
+2014,Eagle,Private industries,2.0,8037,8.4
+2014,Eagle,"Agriculture, forestry, fishing and hunting",3.0,8037,119
+2014,Eagle,Real estate and rental and leasing,56.0,8037,17.3
+2014,Eagle,Government and government enterprises,83.0,8037,5.3
+2014,Elbert,All industry total,1.0,8039,1.6
+2014,Elbert,Private industries,2.0,8039,1.6
+2014,Elbert,"Agriculture, forestry, fishing and hunting",3.0,8039,6.5
+2014,Elbert,Real estate and rental and leasing,56.0,8039,2.2
+2014,Elbert,Government and government enterprises,83.0,8039,1.3
+2014,Fremont,All industry total,1.0,8043,5
+2014,Fremont,Private industries,2.0,8043,5.9
+2014,Fremont,"Agriculture, forestry, fishing and hunting",3.0,8043,(D)
+2014,Fremont,Real estate and rental and leasing,56.0,8043,-0.9
+2014,Fremont,Government and government enterprises,83.0,8043,3.4
+2014,Garfield,All industry total,1.0,8045,6.7
+2014,Garfield,Private industries,2.0,8045,6.9
+2014,Garfield,"Agriculture, forestry, fishing and hunting",3.0,8045,-15.9
+2014,Garfield,Real estate and rental and leasing,56.0,8045,-3.2
+2014,Garfield,Government and government enterprises,83.0,8045,4.7
+2014,Gilpin,All industry total,1.0,8047,-2
+2014,Gilpin,Private industries,2.0,8047,-2.3
+2014,Gilpin,"Agriculture, forestry, fishing and hunting",3.0,8047,(D)
+2014,Gilpin,Real estate and rental and leasing,56.0,8047,(D)
+2014,Gilpin,Government and government enterprises,83.0,8047,3
+2014,Grand,All industry total,1.0,8049,4.4
+2014,Grand,Private industries,2.0,8049,4.6
+2014,Grand,"Agriculture, forestry, fishing and hunting",3.0,8049,22.9
+2014,Grand,Real estate and rental and leasing,56.0,8049,0.9
+2014,Grand,Government and government enterprises,83.0,8049,3.3
+2014,Gunnison,All industry total,1.0,8051,0.4
+2014,Gunnison,Private industries,2.0,8051,-0.3
+2014,Gunnison,"Agriculture, forestry, fishing and hunting",3.0,8051,-35.6
+2014,Gunnison,Real estate and rental and leasing,56.0,8051,1.7
+2014,Gunnison,Government and government enterprises,83.0,8051,5.2
+2014,Hinsdale,All industry total,1.0,8053,3.3
+2014,Hinsdale,Private industries,2.0,8053,3.3
+2014,Hinsdale,"Agriculture, forestry, fishing and hunting",3.0,8053,(D)
+2014,Hinsdale,Real estate and rental and leasing,56.0,8053,(D)
+2014,Hinsdale,Government and government enterprises,83.0,8053,3.8
+2014,Huerfano,All industry total,1.0,8055,18.7
+2014,Huerfano,Private industries,2.0,8055,21
+2014,Huerfano,"Agriculture, forestry, fishing and hunting",3.0,8055,-25
+2014,Huerfano,Real estate and rental and leasing,56.0,8055,-0.7
+2014,Huerfano,Government and government enterprises,83.0,8055,0.1
+2014,Jackson,All industry total,1.0,8057,21.8
+2014,Jackson,Private industries,2.0,8057,25.5
+2014,Jackson,"Agriculture, forestry, fishing and hunting",3.0,8057,203.5
+2014,Jackson,Real estate and rental and leasing,56.0,8057,(D)
+2014,Jackson,Government and government enterprises,83.0,8057,4.9
+2014,Jefferson,All industry total,1.0,8059,5.3
+2014,Jefferson,Private industries,2.0,8059,5.5
+2014,Jefferson,"Agriculture, forestry, fishing and hunting",3.0,8059,-35.5
+2014,Jefferson,Real estate and rental and leasing,56.0,8059,0.9
+2014,Jefferson,Government and government enterprises,83.0,8059,3.5
+2014,Kiowa,All industry total,1.0,8061,-22.9
+2014,Kiowa,Private industries,2.0,8061,-25.6
+2014,Kiowa,"Agriculture, forestry, fishing and hunting",3.0,8061,(D)
+2014,Kiowa,Real estate and rental and leasing,56.0,8061,2.1
+2014,Kiowa,Government and government enterprises,83.0,8061,-3.2
+2014,Lake,All industry total,1.0,8065,5.7
+2014,Lake,Private industries,2.0,8065,6.1
+2014,Lake,"Agriculture, forestry, fishing and hunting",3.0,8065,(D)
+2014,Lake,Real estate and rental and leasing,56.0,8065,0.4
+2014,Lake,Government and government enterprises,83.0,8065,3.8
+2014,Larimer,All industry total,1.0,8069,6.8
+2014,Larimer,Private industries,2.0,8069,7.2
+2014,Larimer,"Agriculture, forestry, fishing and hunting",3.0,8069,23.5
+2014,Larimer,Real estate and rental and leasing,56.0,8069,3.6
+2014,Larimer,Government and government enterprises,83.0,8069,4.6
+2014,Lincoln,All industry total,1.0,8073,13.7
+2014,Lincoln,Private industries,2.0,8073,16.4
+2014,Lincoln,"Agriculture, forestry, fishing and hunting",3.0,8073,(D)
+2014,Lincoln,Real estate and rental and leasing,56.0,8073,0.8
+2014,Lincoln,Government and government enterprises,83.0,8073,2
+2014,Logan,All industry total,1.0,8075,3.7
+2014,Logan,Private industries,2.0,8075,3.9
+2014,Logan,"Agriculture, forestry, fishing and hunting",3.0,8075,2.9
+2014,Logan,Real estate and rental and leasing,56.0,8075,3.9
+2014,Logan,Government and government enterprises,83.0,8075,2.2
+2014,Mesa,All industry total,1.0,8077,3.6
+2014,Mesa,Private industries,2.0,8077,3.3
+2014,Mesa,"Agriculture, forestry, fishing and hunting",3.0,8077,60.9
+2014,Mesa,Real estate and rental and leasing,56.0,8077,-0.2
+2014,Mesa,Government and government enterprises,83.0,8077,5.4
+2014,Mineral,All industry total,1.0,8079,-1
+2014,Mineral,Private industries,2.0,8079,-1.1
+2014,Mineral,"Agriculture, forestry, fishing and hunting",3.0,8079,(D)
+2014,Mineral,Real estate and rental and leasing,56.0,8079,(D)
+2014,Mineral,Government and government enterprises,83.0,8079,0
+2014,Moffat,All industry total,1.0,8081,6.4
+2014,Moffat,Private industries,2.0,8081,7.9
+2014,Moffat,"Agriculture, forestry, fishing and hunting",3.0,8081,436.6
+2014,Moffat,Real estate and rental and leasing,56.0,8081,0
+2014,Moffat,Government and government enterprises,83.0,8081,-11.6
+2014,Montezuma,All industry total,1.0,8083,23.5
+2014,Montezuma,Private industries,2.0,8083,26.6
+2014,Montezuma,"Agriculture, forestry, fishing and hunting",3.0,8083,-16.5
+2014,Montezuma,Real estate and rental and leasing,56.0,8083,-1.3
+2014,Montezuma,Government and government enterprises,83.0,8083,1
+2014,Montrose,All industry total,1.0,8085,2.8
+2014,Montrose,Private industries,2.0,8085,2.5
+2014,Montrose,"Agriculture, forestry, fishing and hunting",3.0,8085,139.2
+2014,Montrose,Real estate and rental and leasing,56.0,8085,1.3
+2014,Montrose,Government and government enterprises,83.0,8085,4.3
+2014,Morgan,All industry total,1.0,8087,5.9
+2014,Morgan,Private industries,2.0,8087,6.4
+2014,Morgan,"Agriculture, forestry, fishing and hunting",3.0,8087,27.2
+2014,Morgan,Real estate and rental and leasing,56.0,8087,1.2
+2014,Morgan,Government and government enterprises,83.0,8087,0.7
+2014,Otero,All industry total,1.0,8089,-3.3
+2014,Otero,Private industries,2.0,8089,-4.6
+2014,Otero,"Agriculture, forestry, fishing and hunting",3.0,8089,-15.9
+2014,Otero,Real estate and rental and leasing,56.0,8089,-2.1
+2014,Otero,Government and government enterprises,83.0,8089,3.7
+2014,Ouray,All industry total,1.0,8091,5.4
+2014,Ouray,Private industries,2.0,8091,5.4
+2014,Ouray,"Agriculture, forestry, fishing and hunting",3.0,8091,(D)
+2014,Ouray,Real estate and rental and leasing,56.0,8091,4
+2014,Ouray,Government and government enterprises,83.0,8091,5.2
+2014,Park,All industry total,1.0,8093,1
+2014,Park,Private industries,2.0,8093,0.8
+2014,Park,"Agriculture, forestry, fishing and hunting",3.0,8093,(D)
+2014,Park,Real estate and rental and leasing,56.0,8093,-0.1
+2014,Park,Government and government enterprises,83.0,8093,2.7
+2014,Phillips,All industry total,1.0,8095,0.6
+2014,Phillips,Private industries,2.0,8095,-0.3
+2014,Phillips,"Agriculture, forestry, fishing and hunting",3.0,8095,-3.9
+2014,Phillips,Real estate and rental and leasing,56.0,8095,1.8
+2014,Phillips,Government and government enterprises,83.0,8095,6.1
+2014,Pitkin,All industry total,1.0,8097,8.3
+2014,Pitkin,Private industries,2.0,8097,8.5
+2014,Pitkin,"Agriculture, forestry, fishing and hunting",3.0,8097,(D)
+2014,Pitkin,Real estate and rental and leasing,56.0,8097,15
+2014,Pitkin,Government and government enterprises,83.0,8097,6.5
+2014,Prowers,All industry total,1.0,8099,-7.4
+2014,Prowers,Private industries,2.0,8099,-8.6
+2014,Prowers,"Agriculture, forestry, fishing and hunting",3.0,8099,-17.9
+2014,Prowers,Real estate and rental and leasing,56.0,8099,0.5
+2014,Prowers,Government and government enterprises,83.0,8099,0.8
+2014,Pueblo,All industry total,1.0,8101,1.6
+2014,Pueblo,Private industries,2.0,8101,1.5
+2014,Pueblo,"Agriculture, forestry, fishing and hunting",3.0,8101,1.4
+2014,Pueblo,Real estate and rental and leasing,56.0,8101,-1.9
+2014,Pueblo,Government and government enterprises,83.0,8101,2.1
+2014,Routt,All industry total,1.0,8107,-0.3
+2014,Routt,Private industries,2.0,8107,-0.5
+2014,Routt,"Agriculture, forestry, fishing and hunting",3.0,8107,(D)
+2014,Routt,Real estate and rental and leasing,56.0,8107,2.3
+2014,Routt,Government and government enterprises,83.0,8107,2.4
+2014,Saguache,All industry total,1.0,8109,-1.6
+2014,Saguache,Private industries,2.0,8109,-2.3
+2014,Saguache,"Agriculture, forestry, fishing and hunting",3.0,8109,-7.4
+2014,Saguache,Real estate and rental and leasing,56.0,8109,0
+2014,Saguache,Government and government enterprises,83.0,8109,1.6
+2014,Sedgwick,All industry total,1.0,8115,0.1
+2014,Sedgwick,Private industries,2.0,8115,-0.4
+2014,Sedgwick,"Agriculture, forestry, fishing and hunting",3.0,8115,(D)
+2014,Sedgwick,Real estate and rental and leasing,56.0,8115,(D)
+2014,Sedgwick,Government and government enterprises,83.0,8115,3.3
+2014,Summit,All industry total,1.0,8117,4.6
+2014,Summit,Private industries,2.0,8117,4.5
+2014,Summit,"Agriculture, forestry, fishing and hunting",3.0,8117,(D)
+2014,Summit,Real estate and rental and leasing,56.0,8117,-1.3
+2014,Summit,Government and government enterprises,83.0,8117,5.9
+2014,Teller,All industry total,1.0,8119,5.9
+2014,Teller,Private industries,2.0,8119,6
+2014,Teller,"Agriculture, forestry, fishing and hunting",3.0,8119,(D)
+2014,Teller,Real estate and rental and leasing,56.0,8119,-2
+2014,Teller,Government and government enterprises,83.0,8119,4.9
+2014,Washington,All industry total,1.0,8121,-10.2
+2014,Washington,Private industries,2.0,8121,-11.7
+2014,Washington,"Agriculture, forestry, fishing and hunting",3.0,8121,-33
+2014,Washington,Real estate and rental and leasing,56.0,8121,(D)
+2014,Washington,Government and government enterprises,83.0,8121,1.8
+2014,Weld,All industry total,1.0,8123,18.6
+2014,Weld,Private industries,2.0,8123,19.6
+2014,Weld,"Agriculture, forestry, fishing and hunting",3.0,8123,24.1
+2014,Weld,Real estate and rental and leasing,56.0,8123,4.2
+2014,Weld,Government and government enterprises,83.0,8123,5
+2014,Yuma,All industry total,1.0,8125,-0.5
+2014,Yuma,Private industries,2.0,8125,-0.7
+2014,Yuma,"Agriculture, forestry, fishing and hunting",3.0,8125,-16.6
+2014,Yuma,Real estate and rental and leasing,56.0,8125,0.2
+2014,Yuma,Government and government enterprises,83.0,8125,2.3
+2015,Adams,All industry total,1.0,8001,6.7
+2015,Adams,Private industries,2.0,8001,6.3
+2015,Adams,"Agriculture, forestry, fishing and hunting",3.0,8001,(D)
+2015,Adams,Real estate and rental and leasing,56.0,8001,8.2
+2015,Adams,Government and government enterprises,83.0,8001,8.9
+2015,Alamosa,All industry total,1.0,8003,8.9
+2015,Alamosa,Private industries,2.0,8003,10
+2015,Alamosa,"Agriculture, forestry, fishing and hunting",3.0,8003,61.8
+2015,Alamosa,Real estate and rental and leasing,56.0,8003,7.6
+2015,Alamosa,Government and government enterprises,83.0,8003,4.8
+2015,Arapahoe,All industry total,1.0,8005,5.9
+2015,Arapahoe,Private industries,2.0,8005,5.8
+2015,Arapahoe,"Agriculture, forestry, fishing and hunting",3.0,8005,22.1
+2015,Arapahoe,Real estate and rental and leasing,56.0,8005,8.2
+2015,Arapahoe,Government and government enterprises,83.0,8005,7.3
+2015,Archuleta,All industry total,1.0,8007,0.9
+2015,Archuleta,Private industries,2.0,8007,-0.3
+2015,Archuleta,"Agriculture, forestry, fishing and hunting",3.0,8007,5.5
+2015,Archuleta,Real estate and rental and leasing,56.0,8007,7.5
+2015,Archuleta,Government and government enterprises,83.0,8007,10.4
+2015,Baca,All industry total,1.0,8009,-19.1
+2015,Baca,Private industries,2.0,8009,-26.2
+2015,Baca,"Agriculture, forestry, fishing and hunting",3.0,8009,-72.4
+2015,Baca,Real estate and rental and leasing,56.0,8009,(D)
+2015,Baca,Government and government enterprises,83.0,8009,5.7
+2015,Bent,All industry total,1.0,8011,-3.4
+2015,Bent,Private industries,2.0,8011,-4.5
+2015,Bent,"Agriculture, forestry, fishing and hunting",3.0,8011,-26.6
+2015,Bent,Real estate and rental and leasing,56.0,8011,(D)
+2015,Bent,Government and government enterprises,83.0,8011,3
+2015,Boulder,All industry total,1.0,8013,6.1
+2015,Boulder,Private industries,2.0,8013,5.9
+2015,Boulder,"Agriculture, forestry, fishing and hunting",3.0,8013,100.1
+2015,Boulder,Real estate and rental and leasing,56.0,8013,10
+2015,Boulder,Government and government enterprises,83.0,8013,8
+2015,Broomfield,All industry total,1.0,8014,4.2
+2015,Broomfield,Private industries,2.0,8014,4.1
+2015,Broomfield,"Agriculture, forestry, fishing and hunting",3.0,8014,186.9
+2015,Broomfield,Real estate and rental and leasing,56.0,8014,13.7
+2015,Broomfield,Government and government enterprises,83.0,8014,11
+2015,Chaffee,All industry total,1.0,8015,7.4
+2015,Chaffee,Private industries,2.0,8015,7
+2015,Chaffee,"Agriculture, forestry, fishing and hunting",3.0,8015,246.4
+2015,Chaffee,Real estate and rental and leasing,56.0,8015,8.7
+2015,Chaffee,Government and government enterprises,83.0,8015,9
+2015,Cheyenne,All industry total,1.0,8017,-39.2
+2015,Cheyenne,Private industries,2.0,8017,-42.5
+2015,Cheyenne,"Agriculture, forestry, fishing and hunting",3.0,8017,-78.1
+2015,Cheyenne,Real estate and rental and leasing,56.0,8017,(D)
+2015,Cheyenne,Government and government enterprises,83.0,8017,4.7
+2015,Conejos,All industry total,1.0,8021,10.6
+2015,Conejos,Private industries,2.0,8021,13.9
+2015,Conejos,"Agriculture, forestry, fishing and hunting",3.0,8021,46.7
+2015,Conejos,Real estate and rental and leasing,56.0,8021,(D)
+2015,Conejos,Government and government enterprises,83.0,8021,-7.2
+2015,Costilla,All industry total,1.0,8023,8.4
+2015,Costilla,Private industries,2.0,8023,9.3
+2015,Costilla,"Agriculture, forestry, fishing and hunting",3.0,8023,31.4
+2015,Costilla,Real estate and rental and leasing,56.0,8023,(D)
+2015,Costilla,Government and government enterprises,83.0,8023,3.9
+2015,Crowley,All industry total,1.0,8025,17.6
+2015,Crowley,Private industries,2.0,8025,23.6
+2015,Crowley,"Agriculture, forestry, fishing and hunting",3.0,8025,(D)
+2015,Crowley,Real estate and rental and leasing,56.0,8025,(D)
+2015,Crowley,Government and government enterprises,83.0,8025,2.2
+2015,Custer,All industry total,1.0,8027,13.9
+2015,Custer,Private industries,2.0,8027,14.6
+2015,Custer,"Agriculture, forestry, fishing and hunting",3.0,8027,937.8
+2015,Custer,Real estate and rental and leasing,56.0,8027,(D)
+2015,Custer,Government and government enterprises,83.0,8027,8.2
+2015,Delta,All industry total,1.0,8029,-2.2
+2015,Delta,Private industries,2.0,8029,-3.8
+2015,Delta,"Agriculture, forestry, fishing and hunting",3.0,8029,54.5
+2015,Delta,Real estate and rental and leasing,56.0,8029,8.4
+2015,Delta,Government and government enterprises,83.0,8029,5.2
+2015,Denver,All industry total,1.0,8031,6.6
+2015,Denver,Private industries,2.0,8031,6.4
+2015,Denver,"Agriculture, forestry, fishing and hunting",3.0,8031,47.5
+2015,Denver,Real estate and rental and leasing,56.0,8031,7.5
+2015,Denver,Government and government enterprises,83.0,8031,8.6
+2015,Dolores,All industry total,1.0,8033,-27
+2015,Dolores,Private industries,2.0,8033,-28.8
+2015,Dolores,"Agriculture, forestry, fishing and hunting",3.0,8033,23
+2015,Dolores,Real estate and rental and leasing,56.0,8033,(D)
+2015,Dolores,Government and government enterprises,83.0,8033,7.1
+2015,Douglas,All industry total,1.0,8035,8.9
+2015,Douglas,Private industries,2.0,8035,9
+2015,Douglas,"Agriculture, forestry, fishing and hunting",3.0,8035,-17.7
+2015,Douglas,Real estate and rental and leasing,56.0,8035,18.2
+2015,Douglas,Government and government enterprises,83.0,8035,7.4
+2015,Eagle,All industry total,1.0,8037,8.2
+2015,Eagle,Private industries,2.0,8037,8.4
+2015,Eagle,"Agriculture, forestry, fishing and hunting",3.0,8037,-39.8
+2015,Eagle,Real estate and rental and leasing,56.0,8037,10.3
+2015,Eagle,Government and government enterprises,83.0,8037,6.3
+2015,Elbert,All industry total,1.0,8039,5.1
+2015,Elbert,Private industries,2.0,8039,5.2
+2015,Elbert,"Agriculture, forestry, fishing and hunting",3.0,8039,-12.5
+2015,Elbert,Real estate and rental and leasing,56.0,8039,5.9
+2015,Elbert,Government and government enterprises,83.0,8039,4.1
+2015,Fremont,All industry total,1.0,8043,5.9
+2015,Fremont,Private industries,2.0,8043,6.2
+2015,Fremont,"Agriculture, forestry, fishing and hunting",3.0,8043,(D)
+2015,Fremont,Real estate and rental and leasing,56.0,8043,8.4
+2015,Fremont,Government and government enterprises,83.0,8043,5.2
+2015,Garfield,All industry total,1.0,8045,-21.1
+2015,Garfield,Private industries,2.0,8045,-23.6
+2015,Garfield,"Agriculture, forestry, fishing and hunting",3.0,8045,6.9
+2015,Garfield,Real estate and rental and leasing,56.0,8045,7.2
+2015,Garfield,Government and government enterprises,83.0,8045,6.4
+2015,Gilpin,All industry total,1.0,8047,5.5
+2015,Gilpin,Private industries,2.0,8047,5.6
+2015,Gilpin,"Agriculture, forestry, fishing and hunting",3.0,8047,(D)
+2015,Gilpin,Real estate and rental and leasing,56.0,8047,(D)
+2015,Gilpin,Government and government enterprises,83.0,8047,4.2
+2015,Grand,All industry total,1.0,8049,7.6
+2015,Grand,Private industries,2.0,8049,7.9
+2015,Grand,"Agriculture, forestry, fishing and hunting",3.0,8049,18.3
+2015,Grand,Real estate and rental and leasing,56.0,8049,5.9
+2015,Grand,Government and government enterprises,83.0,8049,5.7
+2015,Gunnison,All industry total,1.0,8051,-0.2
+2015,Gunnison,Private industries,2.0,8051,-1.4
+2015,Gunnison,"Agriculture, forestry, fishing and hunting",3.0,8051,26.7
+2015,Gunnison,Real estate and rental and leasing,56.0,8051,7.5
+2015,Gunnison,Government and government enterprises,83.0,8051,7.4
+2015,Hinsdale,All industry total,1.0,8053,4
+2015,Hinsdale,Private industries,2.0,8053,3.5
+2015,Hinsdale,"Agriculture, forestry, fishing and hunting",3.0,8053,(D)
+2015,Hinsdale,Real estate and rental and leasing,56.0,8053,(D)
+2015,Hinsdale,Government and government enterprises,83.0,8053,8
+2015,Huerfano,All industry total,1.0,8055,-8.1
+2015,Huerfano,Private industries,2.0,8055,-9.4
+2015,Huerfano,"Agriculture, forestry, fishing and hunting",3.0,8055,-34.5
+2015,Huerfano,Real estate and rental and leasing,56.0,8055,8.2
+2015,Huerfano,Government and government enterprises,83.0,8055,4.4
+2015,Jackson,All industry total,1.0,8057,2.9
+2015,Jackson,Private industries,2.0,8057,4.5
+2015,Jackson,"Agriculture, forestry, fishing and hunting",3.0,8057,66.8
+2015,Jackson,Real estate and rental and leasing,56.0,8057,(D)
+2015,Jackson,Government and government enterprises,83.0,8057,-6
+2015,Jefferson,All industry total,1.0,8059,6.4
+2015,Jefferson,Private industries,2.0,8059,6.7
+2015,Jefferson,"Agriculture, forestry, fishing and hunting",3.0,8059,12.6
+2015,Jefferson,Real estate and rental and leasing,56.0,8059,9.6
+2015,Jefferson,Government and government enterprises,83.0,8059,4.9
+2015,Kiowa,All industry total,1.0,8061,-36.8
+2015,Kiowa,Private industries,2.0,8061,-44.3
+2015,Kiowa,"Agriculture, forestry, fishing and hunting",3.0,8061,(D)
+2015,Kiowa,Real estate and rental and leasing,56.0,8061,0.3
+2015,Kiowa,Government and government enterprises,83.0,8061,4.7
+2015,Lake,All industry total,1.0,8065,-5.8
+2015,Lake,Private industries,2.0,8065,-7.9
+2015,Lake,"Agriculture, forestry, fishing and hunting",3.0,8065,(D)
+2015,Lake,Real estate and rental and leasing,56.0,8065,8
+2015,Lake,Government and government enterprises,83.0,8065,6.2
+2015,Larimer,All industry total,1.0,8069,7.6
+2015,Larimer,Private industries,2.0,8069,7.7
+2015,Larimer,"Agriculture, forestry, fishing and hunting",3.0,8069,-3
+2015,Larimer,Real estate and rental and leasing,56.0,8069,9.6
+2015,Larimer,Government and government enterprises,83.0,8069,6.8
+2015,Lincoln,All industry total,1.0,8073,-1.9
+2015,Lincoln,Private industries,2.0,8073,-4
+2015,Lincoln,"Agriculture, forestry, fishing and hunting",3.0,8073,(D)
+2015,Lincoln,Real estate and rental and leasing,56.0,8073,4.3
+2015,Lincoln,Government and government enterprises,83.0,8073,8
+2015,Logan,All industry total,1.0,8075,8.8
+2015,Logan,Private industries,2.0,8075,9
+2015,Logan,"Agriculture, forestry, fishing and hunting",3.0,8075,21.7
+2015,Logan,Real estate and rental and leasing,56.0,8075,9.8
+2015,Logan,Government and government enterprises,83.0,8075,7.4
+2015,Mesa,All industry total,1.0,8077,1.1
+2015,Mesa,Private industries,2.0,8077,0.9
+2015,Mesa,"Agriculture, forestry, fishing and hunting",3.0,8077,11.5
+2015,Mesa,Real estate and rental and leasing,56.0,8077,6.9
+2015,Mesa,Government and government enterprises,83.0,8077,2.9
+2015,Mineral,All industry total,1.0,8079,11.7
+2015,Mineral,Private industries,2.0,8079,12
+2015,Mineral,"Agriculture, forestry, fishing and hunting",3.0,8079,(D)
+2015,Mineral,Real estate and rental and leasing,56.0,8079,(D)
+2015,Mineral,Government and government enterprises,83.0,8079,7.9
+2015,Moffat,All industry total,1.0,8081,-7.6
+2015,Moffat,Private industries,2.0,8081,-9.1
+2015,Moffat,"Agriculture, forestry, fishing and hunting",3.0,8081,31
+2015,Moffat,Real estate and rental and leasing,56.0,8081,7.4
+2015,Moffat,Government and government enterprises,83.0,8081,16.5
+2015,Montezuma,All industry total,1.0,8083,-14.5
+2015,Montezuma,Private industries,2.0,8083,-16.2
+2015,Montezuma,"Agriculture, forestry, fishing and hunting",3.0,8083,457.6
+2015,Montezuma,Real estate and rental and leasing,56.0,8083,6.4
+2015,Montezuma,Government and government enterprises,83.0,8083,1.4
+2015,Montrose,All industry total,1.0,8085,6.6
+2015,Montrose,Private industries,2.0,8085,6.5
+2015,Montrose,"Agriculture, forestry, fishing and hunting",3.0,8085,60.2
+2015,Montrose,Real estate and rental and leasing,56.0,8085,9.7
+2015,Montrose,Government and government enterprises,83.0,8085,6.7
+2015,Morgan,All industry total,1.0,8087,4.3
+2015,Morgan,Private industries,2.0,8087,4.3
+2015,Morgan,"Agriculture, forestry, fishing and hunting",3.0,8087,5.2
+2015,Morgan,Real estate and rental and leasing,56.0,8087,7.8
+2015,Morgan,Government and government enterprises,83.0,8087,4.4
+2015,Otero,All industry total,1.0,8089,6.1
+2015,Otero,Private industries,2.0,8089,6.6
+2015,Otero,"Agriculture, forestry, fishing and hunting",3.0,8089,29.8
+2015,Otero,Real estate and rental and leasing,56.0,8089,6.9
+2015,Otero,Government and government enterprises,83.0,8089,3.6
+2015,Ouray,All industry total,1.0,8091,7.5
+2015,Ouray,Private industries,2.0,8091,7.5
+2015,Ouray,"Agriculture, forestry, fishing and hunting",3.0,8091,(D)
+2015,Ouray,Real estate and rental and leasing,56.0,8091,12.4
+2015,Ouray,Government and government enterprises,83.0,8091,7.5
+2015,Park,All industry total,1.0,8093,9.2
+2015,Park,Private industries,2.0,8093,9.8
+2015,Park,"Agriculture, forestry, fishing and hunting",3.0,8093,(D)
+2015,Park,Real estate and rental and leasing,56.0,8093,10.8
+2015,Park,Government and government enterprises,83.0,8093,5.3
+2015,Phillips,All industry total,1.0,8095,-15.1
+2015,Phillips,Private industries,2.0,8095,-19.1
+2015,Phillips,"Agriculture, forestry, fishing and hunting",3.0,8095,-71.6
+2015,Phillips,Real estate and rental and leasing,56.0,8095,(D)
+2015,Phillips,Government and government enterprises,83.0,8095,6.2
+2015,Pitkin,All industry total,1.0,8097,5.8
+2015,Pitkin,Private industries,2.0,8097,5.5
+2015,Pitkin,"Agriculture, forestry, fishing and hunting",3.0,8097,(D)
+2015,Pitkin,Real estate and rental and leasing,56.0,8097,4.9
+2015,Pitkin,Government and government enterprises,83.0,8097,9.4
+2015,Prowers,All industry total,1.0,8099,-2.2
+2015,Prowers,Private industries,2.0,8099,-3.5
+2015,Prowers,"Agriculture, forestry, fishing and hunting",3.0,8099,-16.9
+2015,Prowers,Real estate and rental and leasing,56.0,8099,7.3
+2015,Prowers,Government and government enterprises,83.0,8099,5.6
+2015,Pueblo,All industry total,1.0,8101,5.3
+2015,Pueblo,Private industries,2.0,8101,5.3
+2015,Pueblo,"Agriculture, forestry, fishing and hunting",3.0,8101,217.3
+2015,Pueblo,Real estate and rental and leasing,56.0,8101,7.5
+2015,Pueblo,Government and government enterprises,83.0,8101,5.3
+2015,Routt,All industry total,1.0,8107,-6.4
+2015,Routt,Private industries,2.0,8107,-7.5
+2015,Routt,"Agriculture, forestry, fishing and hunting",3.0,8107,(D)
+2015,Routt,Real estate and rental and leasing,56.0,8107,3.4
+2015,Routt,Government and government enterprises,83.0,8107,9.8
+2015,Saguache,All industry total,1.0,8109,18.3
+2015,Saguache,Private industries,2.0,8109,21.4
+2015,Saguache,"Agriculture, forestry, fishing and hunting",3.0,8109,47.7
+2015,Saguache,Real estate and rental and leasing,56.0,8109,9.2
+2015,Saguache,Government and government enterprises,83.0,8109,2.9
+2015,Sedgwick,All industry total,1.0,8115,-21
+2015,Sedgwick,Private industries,2.0,8115,-25.2
+2015,Sedgwick,"Agriculture, forestry, fishing and hunting",3.0,8115,(D)
+2015,Sedgwick,Real estate and rental and leasing,56.0,8115,(D)
+2015,Sedgwick,Government and government enterprises,83.0,8115,4.4
+2015,Summit,All industry total,1.0,8117,9.9
+2015,Summit,Private industries,2.0,8117,10.1
+2015,Summit,"Agriculture, forestry, fishing and hunting",3.0,8117,(D)
+2015,Summit,Real estate and rental and leasing,56.0,8117,11.7
+2015,Summit,Government and government enterprises,83.0,8117,8.3
+2015,Teller,All industry total,1.0,8119,5
+2015,Teller,Private industries,2.0,8119,4.7
+2015,Teller,"Agriculture, forestry, fishing and hunting",3.0,8119,(D)
+2015,Teller,Real estate and rental and leasing,56.0,8119,10.1
+2015,Teller,Government and government enterprises,83.0,8119,7.7
+2015,Washington,All industry total,1.0,8121,-9.3
+2015,Washington,Private industries,2.0,8121,-11.4
+2015,Washington,"Agriculture, forestry, fishing and hunting",3.0,8121,-18.2
+2015,Washington,Real estate and rental and leasing,56.0,8121,5.2
+2015,Washington,Government and government enterprises,83.0,8121,5.7
+2015,Weld,All industry total,1.0,8123,-8.9
+2015,Weld,Private industries,2.0,8123,-10
+2015,Weld,"Agriculture, forestry, fishing and hunting",3.0,8123,8.7
+2015,Weld,Real estate and rental and leasing,56.0,8123,9.3
+2015,Weld,Government and government enterprises,83.0,8123,7.4
+2015,Yuma,All industry total,1.0,8125,-10.9
+2015,Yuma,Private industries,2.0,8125,-12.1
+2015,Yuma,"Agriculture, forestry, fishing and hunting",3.0,8125,-23.9
+2015,Yuma,Real estate and rental and leasing,56.0,8125,3.6
+2015,Yuma,Government and government enterprises,83.0,8125,3.1
+2016,Adams,All industry total,1.0,8001,5
+2016,Adams,Private industries,2.0,8001,4.7
+2016,Adams,"Agriculture, forestry, fishing and hunting",3.0,8001,(D)
+2016,Adams,Real estate and rental and leasing,56.0,8001,8.4
+2016,Adams,Government and government enterprises,83.0,8001,7.1
+2016,Alamosa,All industry total,1.0,8003,-0.9
+2016,Alamosa,Private industries,2.0,8003,-1.5
+2016,Alamosa,"Agriculture, forestry, fishing and hunting",3.0,8003,-49.2
+2016,Alamosa,Real estate and rental and leasing,56.0,8003,6.7
+2016,Alamosa,Government and government enterprises,83.0,8003,1.7
+2016,Arapahoe,All industry total,1.0,8005,3.8
+2016,Arapahoe,Private industries,2.0,8005,3.9
+2016,Arapahoe,"Agriculture, forestry, fishing and hunting",3.0,8005,-12.3
+2016,Arapahoe,Real estate and rental and leasing,56.0,8005,6.7
+2016,Arapahoe,Government and government enterprises,83.0,8005,2.3
+2016,Archuleta,All industry total,1.0,8007,3.5
+2016,Archuleta,Private industries,2.0,8007,2.7
+2016,Archuleta,"Agriculture, forestry, fishing and hunting",3.0,8007,17.6
+2016,Archuleta,Real estate and rental and leasing,56.0,8007,1.8
+2016,Archuleta,Government and government enterprises,83.0,8007,9.8
+2016,Baca,All industry total,1.0,8009,-2.4
+2016,Baca,Private industries,2.0,8009,-5
+2016,Baca,"Agriculture, forestry, fishing and hunting",3.0,8009,-58.7
+2016,Baca,Real estate and rental and leasing,56.0,8009,(D)
+2016,Baca,Government and government enterprises,83.0,8009,4.2
+2016,Bent,All industry total,1.0,8011,-4.1
+2016,Bent,Private industries,2.0,8011,-5.5
+2016,Bent,"Agriculture, forestry, fishing and hunting",3.0,8011,-26.9
+2016,Bent,Real estate and rental and leasing,56.0,8011,(D)
+2016,Bent,Government and government enterprises,83.0,8011,3.7
+2016,Boulder,All industry total,1.0,8013,4.5
+2016,Boulder,Private industries,2.0,8013,4.2
+2016,Boulder,"Agriculture, forestry, fishing and hunting",3.0,8013,-34.2
+2016,Boulder,Real estate and rental and leasing,56.0,8013,5.4
+2016,Boulder,Government and government enterprises,83.0,8013,6.8
+2016,Broomfield,All industry total,1.0,8014,-1.4
+2016,Broomfield,Private industries,2.0,8014,-1.5
+2016,Broomfield,"Agriculture, forestry, fishing and hunting",3.0,8014,(D)
+2016,Broomfield,Real estate and rental and leasing,56.0,8014,4.8
+2016,Broomfield,Government and government enterprises,83.0,8014,4.7
+2016,Chaffee,All industry total,1.0,8015,7.3
+2016,Chaffee,Private industries,2.0,8015,7.7
+2016,Chaffee,"Agriculture, forestry, fishing and hunting",3.0,8015,55.2
+2016,Chaffee,Real estate and rental and leasing,56.0,8015,6.9
+2016,Chaffee,Government and government enterprises,83.0,8015,5.4
+2016,Cheyenne,All industry total,1.0,8017,-3.9
+2016,Cheyenne,Private industries,2.0,8017,-5.1
+2016,Cheyenne,"Agriculture, forestry, fishing and hunting",3.0,8017,-54.1
+2016,Cheyenne,Real estate and rental and leasing,56.0,8017,(D)
+2016,Cheyenne,Government and government enterprises,83.0,8017,5.1
+2016,Conejos,All industry total,1.0,8021,-3.4
+2016,Conejos,Private industries,2.0,8021,-5.5
+2016,Conejos,"Agriculture, forestry, fishing and hunting",3.0,8021,-27.6
+2016,Conejos,Real estate and rental and leasing,56.0,8021,(D)
+2016,Conejos,Government and government enterprises,83.0,8021,10.1
+2016,Costilla,All industry total,1.0,8023,-7
+2016,Costilla,Private industries,2.0,8023,-9.8
+2016,Costilla,"Agriculture, forestry, fishing and hunting",3.0,8023,-75.9
+2016,Costilla,Real estate and rental and leasing,56.0,8023,(D)
+2016,Costilla,Government and government enterprises,83.0,8023,6.5
+2016,Crowley,All industry total,1.0,8025,-1.4
+2016,Crowley,Private industries,2.0,8025,-2
+2016,Crowley,"Agriculture, forestry, fishing and hunting",3.0,8025,-5.7
+2016,Crowley,Real estate and rental and leasing,56.0,8025,(D)
+2016,Crowley,Government and government enterprises,83.0,8025,0.4
+2016,Custer,All industry total,1.0,8027,-8.9
+2016,Custer,Private industries,2.0,8027,-10.5
+2016,Custer,"Agriculture, forestry, fishing and hunting",3.0,8027,-88.2
+2016,Custer,Real estate and rental and leasing,56.0,8027,8.9
+2016,Custer,Government and government enterprises,83.0,8027,5.2
+2016,Delta,All industry total,1.0,8029,-5.4
+2016,Delta,Private industries,2.0,8029,-8
+2016,Delta,"Agriculture, forestry, fishing and hunting",3.0,8029,-53.9
+2016,Delta,Real estate and rental and leasing,56.0,8029,4.8
+2016,Delta,Government and government enterprises,83.0,8029,6.1
+2016,Denver,All industry total,1.0,8031,2.7
+2016,Denver,Private industries,2.0,8031,2.4
+2016,Denver,"Agriculture, forestry, fishing and hunting",3.0,8031,-16.6
+2016,Denver,Real estate and rental and leasing,56.0,8031,11.9
+2016,Denver,Government and government enterprises,83.0,8031,5.3
+2016,Dolores,All industry total,1.0,8033,-26.6
+2016,Dolores,Private industries,2.0,8033,-29.4
+2016,Dolores,"Agriculture, forestry, fishing and hunting",3.0,8033,6.2
+2016,Dolores,Real estate and rental and leasing,56.0,8033,(D)
+2016,Dolores,Government and government enterprises,83.0,8033,10.5
+2016,Douglas,All industry total,1.0,8035,3.5
+2016,Douglas,Private industries,2.0,8035,3.4
+2016,Douglas,"Agriculture, forestry, fishing and hunting",3.0,8035,32.9
+2016,Douglas,Real estate and rental and leasing,56.0,8035,9
+2016,Douglas,Government and government enterprises,83.0,8035,3.8
+2016,Eagle,All industry total,1.0,8037,4.6
+2016,Eagle,Private industries,2.0,8037,4.7
+2016,Eagle,"Agriculture, forestry, fishing and hunting",3.0,8037,11.6
+2016,Eagle,Real estate and rental and leasing,56.0,8037,2.6
+2016,Eagle,Government and government enterprises,83.0,8037,3.1
+2016,Elbert,All industry total,1.0,8039,6.9
+2016,Elbert,Private industries,2.0,8039,7.4
+2016,Elbert,"Agriculture, forestry, fishing and hunting",3.0,8039,75.5
+2016,Elbert,Real estate and rental and leasing,56.0,8039,10.2
+2016,Elbert,Government and government enterprises,83.0,8039,3.2
+2016,Fremont,All industry total,1.0,8043,3.6
+2016,Fremont,Private industries,2.0,8043,3.8
+2016,Fremont,"Agriculture, forestry, fishing and hunting",3.0,8043,(D)
+2016,Fremont,Real estate and rental and leasing,56.0,8043,7.1
+2016,Fremont,Government and government enterprises,83.0,8043,3
+2016,Garfield,All industry total,1.0,8045,-1.8
+2016,Garfield,Private industries,2.0,8045,-2.4
+2016,Garfield,"Agriculture, forestry, fishing and hunting",3.0,8045,-12.1
+2016,Garfield,Real estate and rental and leasing,56.0,8045,4.8
+2016,Garfield,Government and government enterprises,83.0,8045,2.5
+2016,Gilpin,All industry total,1.0,8047,2.1
+2016,Gilpin,Private industries,2.0,8047,1.9
+2016,Gilpin,"Agriculture, forestry, fishing and hunting",3.0,8047,(D)
+2016,Gilpin,Real estate and rental and leasing,56.0,8047,9.1
+2016,Gilpin,Government and government enterprises,83.0,8047,5.7
+2016,Grand,All industry total,1.0,8049,3.7
+2016,Grand,Private industries,2.0,8049,4.1
+2016,Grand,"Agriculture, forestry, fishing and hunting",3.0,8049,-58.4
+2016,Grand,Real estate and rental and leasing,56.0,8049,10.7
+2016,Grand,Government and government enterprises,83.0,8049,1.2
+2016,Gunnison,All industry total,1.0,8051,1.7
+2016,Gunnison,Private industries,2.0,8051,0.9
+2016,Gunnison,"Agriculture, forestry, fishing and hunting",3.0,8051,13.1
+2016,Gunnison,Real estate and rental and leasing,56.0,8051,7.3
+2016,Gunnison,Government and government enterprises,83.0,8051,6.8
+2016,Hinsdale,All industry total,1.0,8053,6.4
+2016,Hinsdale,Private industries,2.0,8053,6.9
+2016,Hinsdale,"Agriculture, forestry, fishing and hunting",3.0,8053,(D)
+2016,Hinsdale,Real estate and rental and leasing,56.0,8053,(D)
+2016,Hinsdale,Government and government enterprises,83.0,8053,3.2
+2016,Huerfano,All industry total,1.0,8055,4.4
+2016,Huerfano,Private industries,2.0,8055,3.8
+2016,Huerfano,"Agriculture, forestry, fishing and hunting",3.0,8055,84.5
+2016,Huerfano,Real estate and rental and leasing,56.0,8055,8.5
+2016,Huerfano,Government and government enterprises,83.0,8055,9.6
+2016,Jackson,All industry total,1.0,8057,1.4
+2016,Jackson,Private industries,2.0,8057,1.9
+2016,Jackson,"Agriculture, forestry, fishing and hunting",3.0,8057,-29.3
+2016,Jackson,Real estate and rental and leasing,56.0,8057,(D)
+2016,Jackson,Government and government enterprises,83.0,8057,-1.8
+2016,Jefferson,All industry total,1.0,8059,6.2
+2016,Jefferson,Private industries,2.0,8059,6.5
+2016,Jefferson,"Agriculture, forestry, fishing and hunting",3.0,8059,16.8
+2016,Jefferson,Real estate and rental and leasing,56.0,8059,9.2
+2016,Jefferson,Government and government enterprises,83.0,8059,4
+2016,Kiowa,All industry total,1.0,8061,-0.9
+2016,Kiowa,Private industries,2.0,8061,-2.3
+2016,Kiowa,"Agriculture, forestry, fishing and hunting",3.0,8061,61.5
+2016,Kiowa,Real estate and rental and leasing,56.0,8061,5
+2016,Kiowa,Government and government enterprises,83.0,8061,3.1
+2016,Lake,All industry total,1.0,8065,-2.1
+2016,Lake,Private industries,2.0,8065,-2.4
+2016,Lake,"Agriculture, forestry, fishing and hunting",3.0,8065,(D)
+2016,Lake,Real estate and rental and leasing,56.0,8065,9.1
+2016,Lake,Government and government enterprises,83.0,8065,-0.6
+2016,Larimer,All industry total,1.0,8069,5.5
+2016,Larimer,Private industries,2.0,8069,5.6
+2016,Larimer,"Agriculture, forestry, fishing and hunting",3.0,8069,-60.5
+2016,Larimer,Real estate and rental and leasing,56.0,8069,8.2
+2016,Larimer,Government and government enterprises,83.0,8069,5.2
+2016,Lincoln,All industry total,1.0,8073,-1
+2016,Lincoln,Private industries,2.0,8073,-1.4
+2016,Lincoln,"Agriculture, forestry, fishing and hunting",3.0,8073,-39.6
+2016,Lincoln,Real estate and rental and leasing,56.0,8073,7.7
+2016,Lincoln,Government and government enterprises,83.0,8073,0.9
+2016,Logan,All industry total,1.0,8075,0.8
+2016,Logan,Private industries,2.0,8075,0.7
+2016,Logan,"Agriculture, forestry, fishing and hunting",3.0,8075,-2.3
+2016,Logan,Real estate and rental and leasing,56.0,8075,8
+2016,Logan,Government and government enterprises,83.0,8075,1.1
+2016,Mesa,All industry total,1.0,8077,0.2
+2016,Mesa,Private industries,2.0,8077,-0.3
+2016,Mesa,"Agriculture, forestry, fishing and hunting",3.0,8077,-43.5
+2016,Mesa,Real estate and rental and leasing,56.0,8077,6.5
+2016,Mesa,Government and government enterprises,83.0,8077,3.7
+2016,Mineral,All industry total,1.0,8079,1.6
+2016,Mineral,Private industries,2.0,8079,1.5
+2016,Mineral,"Agriculture, forestry, fishing and hunting",3.0,8079,(D)
+2016,Mineral,Real estate and rental and leasing,56.0,8079,(D)
+2016,Mineral,Government and government enterprises,83.0,8079,1.8
+2016,Moffat,All industry total,1.0,8081,-4.4
+2016,Moffat,Private industries,2.0,8081,-4.6
+2016,Moffat,"Agriculture, forestry, fishing and hunting",3.0,8081,-67.7
+2016,Moffat,Real estate and rental and leasing,56.0,8081,7.2
+2016,Moffat,Government and government enterprises,83.0,8081,-2
+2016,Montezuma,All industry total,1.0,8083,-9.4
+2016,Montezuma,Private industries,2.0,8083,-11
+2016,Montezuma,"Agriculture, forestry, fishing and hunting",3.0,8083,-80.1
+2016,Montezuma,Real estate and rental and leasing,56.0,8083,5.7
+2016,Montezuma,Government and government enterprises,83.0,8083,3.2
+2016,Montrose,All industry total,1.0,8085,-0.4
+2016,Montrose,Private industries,2.0,8085,-1.4
+2016,Montrose,"Agriculture, forestry, fishing and hunting",3.0,8085,-75.7
+2016,Montrose,Real estate and rental and leasing,56.0,8085,7
+2016,Montrose,Government and government enterprises,83.0,8085,5
+2016,Morgan,All industry total,1.0,8087,-2.7
+2016,Morgan,Private industries,2.0,8087,-3.2
+2016,Morgan,"Agriculture, forestry, fishing and hunting",3.0,8087,-5.6
+2016,Morgan,Real estate and rental and leasing,56.0,8087,6.3
+2016,Morgan,Government and government enterprises,83.0,8087,2.8
+2016,Otero,All industry total,1.0,8089,-1.8
+2016,Otero,Private industries,2.0,8089,-2.5
+2016,Otero,"Agriculture, forestry, fishing and hunting",3.0,8089,-39.5
+2016,Otero,Real estate and rental and leasing,56.0,8089,7.3
+2016,Otero,Government and government enterprises,83.0,8089,1.6
+2016,Ouray,All industry total,1.0,8091,-6.1
+2016,Ouray,Private industries,2.0,8091,-7.3
+2016,Ouray,"Agriculture, forestry, fishing and hunting",3.0,8091,(D)
+2016,Ouray,Real estate and rental and leasing,56.0,8091,13.5
+2016,Ouray,Government and government enterprises,83.0,8091,4
+2016,Park,All industry total,1.0,8093,6.8
+2016,Park,Private industries,2.0,8093,7.4
+2016,Park,"Agriculture, forestry, fishing and hunting",3.0,8093,124.7
+2016,Park,Real estate and rental and leasing,56.0,8093,9.2
+2016,Park,Government and government enterprises,83.0,8093,3
+2016,Phillips,All industry total,1.0,8095,18.3
+2016,Phillips,Private industries,2.0,8095,21.8
+2016,Phillips,"Agriculture, forestry, fishing and hunting",3.0,8095,142.7
+2016,Phillips,Real estate and rental and leasing,56.0,8095,(D)
+2016,Phillips,Government and government enterprises,83.0,8095,4.4
+2016,Pitkin,All industry total,1.0,8097,5.9
+2016,Pitkin,Private industries,2.0,8097,6
+2016,Pitkin,"Agriculture, forestry, fishing and hunting",3.0,8097,(D)
+2016,Pitkin,Real estate and rental and leasing,56.0,8097,2.9
+2016,Pitkin,Government and government enterprises,83.0,8097,4.8
+2016,Prowers,All industry total,1.0,8099,4.6
+2016,Prowers,Private industries,2.0,8099,5.1
+2016,Prowers,"Agriculture, forestry, fishing and hunting",3.0,8099,12.4
+2016,Prowers,Real estate and rental and leasing,56.0,8099,7.9
+2016,Prowers,Government and government enterprises,83.0,8099,1.6
+2016,Pueblo,All industry total,1.0,8101,3.5
+2016,Pueblo,Private industries,2.0,8101,3.5
+2016,Pueblo,"Agriculture, forestry, fishing and hunting",3.0,8101,-62.8
+2016,Pueblo,Real estate and rental and leasing,56.0,8101,8.3
+2016,Pueblo,Government and government enterprises,83.0,8101,3.6
+2016,Routt,All industry total,1.0,8107,-0.1
+2016,Routt,Private industries,2.0,8107,-0.3
+2016,Routt,"Agriculture, forestry, fishing and hunting",3.0,8107,(D)
+2016,Routt,Real estate and rental and leasing,56.0,8107,6.1
+2016,Routt,Government and government enterprises,83.0,8107,2.8
+2016,Saguache,All industry total,1.0,8109,-9.1
+2016,Saguache,Private industries,2.0,8109,-10.7
+2016,Saguache,"Agriculture, forestry, fishing and hunting",3.0,8109,-24.3
+2016,Saguache,Real estate and rental and leasing,56.0,8109,(D)
+2016,Saguache,Government and government enterprises,83.0,8109,0.5
+2016,Sedgwick,All industry total,1.0,8115,6.1
+2016,Sedgwick,Private industries,2.0,8115,6.9
+2016,Sedgwick,"Agriculture, forestry, fishing and hunting",3.0,8115,(D)
+2016,Sedgwick,Real estate and rental and leasing,56.0,8115,(D)
+2016,Sedgwick,Government and government enterprises,83.0,8115,2.8
+2016,Summit,All industry total,1.0,8117,6.5
+2016,Summit,Private industries,2.0,8117,6.8
+2016,Summit,"Agriculture, forestry, fishing and hunting",3.0,8117,(D)
+2016,Summit,Real estate and rental and leasing,56.0,8117,5.6
+2016,Summit,Government and government enterprises,83.0,8117,3.3
+2016,Teller,All industry total,1.0,8119,-0.2
+2016,Teller,Private industries,2.0,8119,-0.3
+2016,Teller,"Agriculture, forestry, fishing and hunting",3.0,8119,(D)
+2016,Teller,Real estate and rental and leasing,56.0,8119,10
+2016,Teller,Government and government enterprises,83.0,8119,0.4
+2016,Washington,All industry total,1.0,8121,-12.9
+2016,Washington,Private industries,2.0,8121,-15
+2016,Washington,"Agriculture, forestry, fishing and hunting",3.0,8121,-61.8
+2016,Washington,Real estate and rental and leasing,56.0,8121,8.3
+2016,Washington,Government and government enterprises,83.0,8121,-0.6
+2016,Weld,All industry total,1.0,8123,-0.3
+2016,Weld,Private industries,2.0,8123,-0.6
+2016,Weld,"Agriculture, forestry, fishing and hunting",3.0,8123,0.1
+2016,Weld,Real estate and rental and leasing,56.0,8123,8.8
+2016,Weld,Government and government enterprises,83.0,8123,3.2
+2016,Yuma,All industry total,1.0,8125,3.4
+2016,Yuma,Private industries,2.0,8125,3.3
+2016,Yuma,"Agriculture, forestry, fishing and hunting",3.0,8125,28.6
+2016,Yuma,Real estate and rental and leasing,56.0,8125,5.9
+2016,Yuma,Government and government enterprises,83.0,8125,3.9
+2017,Adams,All industry total,1.0,8001,8
+2017,Adams,Private industries,2.0,8001,8.1
+2017,Adams,"Agriculture, forestry, fishing and hunting",3.0,8001,-11.8
+2017,Adams,Real estate and rental and leasing,56.0,8001,5.8
+2017,Adams,Government and government enterprises,83.0,8001,7.6
+2017,Alamosa,All industry total,1.0,8003,2.6
+2017,Alamosa,Private industries,2.0,8003,2.3
+2017,Alamosa,"Agriculture, forestry, fishing and hunting",3.0,8003,-64.5
+2017,Alamosa,Real estate and rental and leasing,56.0,8003,7.4
+2017,Alamosa,Government and government enterprises,83.0,8003,4
+2017,Arapahoe,All industry total,1.0,8005,3.3
+2017,Arapahoe,Private industries,2.0,8005,3.3
+2017,Arapahoe,"Agriculture, forestry, fishing and hunting",3.0,8005,129.4
+2017,Arapahoe,Real estate and rental and leasing,56.0,8005,5.5
+2017,Arapahoe,Government and government enterprises,83.0,8005,3
+2017,Archuleta,All industry total,1.0,8007,5.5
+2017,Archuleta,Private industries,2.0,8007,5.5
+2017,Archuleta,"Agriculture, forestry, fishing and hunting",3.0,8007,(D)
+2017,Archuleta,Real estate and rental and leasing,56.0,8007,7.1
+2017,Archuleta,Government and government enterprises,83.0,8007,5
+2017,Baca,All industry total,1.0,8009,71.6
+2017,Baca,Private industries,2.0,8009,102.4
+2017,Baca,"Agriculture, forestry, fishing and hunting",3.0,8009,1715.4
+2017,Baca,Real estate and rental and leasing,56.0,8009,(D)
+2017,Baca,Government and government enterprises,83.0,8009,2.7
+2017,Bent,All industry total,1.0,8011,-2.6
+2017,Bent,Private industries,2.0,8011,-3.8
+2017,Bent,"Agriculture, forestry, fishing and hunting",3.0,8011,-48.1
+2017,Bent,Real estate and rental and leasing,56.0,8011,(D)
+2017,Bent,Government and government enterprises,83.0,8011,3.5
+2017,Boulder,All industry total,1.0,8013,7.4
+2017,Boulder,Private industries,2.0,8013,7.8
+2017,Boulder,"Agriculture, forestry, fishing and hunting",3.0,8013,30
+2017,Boulder,Real estate and rental and leasing,56.0,8013,10
+2017,Boulder,Government and government enterprises,83.0,8013,4.8
+2017,Broomfield,All industry total,1.0,8014,9.6
+2017,Broomfield,Private industries,2.0,8014,9.6
+2017,Broomfield,"Agriculture, forestry, fishing and hunting",3.0,8014,(D)
+2017,Broomfield,Real estate and rental and leasing,56.0,8014,6.7
+2017,Broomfield,Government and government enterprises,83.0,8014,6.5
+2017,Chaffee,All industry total,1.0,8015,7.6
+2017,Chaffee,Private industries,2.0,8015,7.8
+2017,Chaffee,"Agriculture, forestry, fishing and hunting",3.0,8015,3.1
+2017,Chaffee,Real estate and rental and leasing,56.0,8015,8.8
+2017,Chaffee,Government and government enterprises,83.0,8015,6.7
+2017,Cheyenne,All industry total,1.0,8017,19.4
+2017,Cheyenne,Private industries,2.0,8017,21.9
+2017,Cheyenne,"Agriculture, forestry, fishing and hunting",3.0,8017,209.4
+2017,Cheyenne,Real estate and rental and leasing,56.0,8017,(D)
+2017,Cheyenne,Government and government enterprises,83.0,8017,2.8
+2017,Conejos,All industry total,1.0,8021,11.6
+2017,Conejos,Private industries,2.0,8021,13.2
+2017,Conejos,"Agriculture, forestry, fishing and hunting",3.0,8021,28
+2017,Conejos,Real estate and rental and leasing,56.0,8021,(D)
+2017,Conejos,Government and government enterprises,83.0,8021,2.1
+2017,Costilla,All industry total,1.0,8023,11.4
+2017,Costilla,Private industries,2.0,8023,13.1
+2017,Costilla,"Agriculture, forestry, fishing and hunting",3.0,8023,114.1
+2017,Costilla,Real estate and rental and leasing,56.0,8023,(D)
+2017,Costilla,Government and government enterprises,83.0,8023,4.4
+2017,Crowley,All industry total,1.0,8025,-6.4
+2017,Crowley,Private industries,2.0,8025,-9.5
+2017,Crowley,"Agriculture, forestry, fishing and hunting",3.0,8025,(D)
+2017,Crowley,Real estate and rental and leasing,56.0,8025,(D)
+2017,Crowley,Government and government enterprises,83.0,8025,2.9
+2017,Custer,All industry total,1.0,8027,0.7
+2017,Custer,Private industries,2.0,8027,0.5
+2017,Custer,"Agriculture, forestry, fishing and hunting",3.0,8027,106.8
+2017,Custer,Real estate and rental and leasing,56.0,8027,9.9
+2017,Custer,Government and government enterprises,83.0,8027,2.3
+2017,Delta,All industry total,1.0,8029,2.4
+2017,Delta,Private industries,2.0,8029,1
+2017,Delta,"Agriculture, forestry, fishing and hunting",3.0,8029,-56.3
+2017,Delta,Real estate and rental and leasing,56.0,8029,6.5
+2017,Delta,Government and government enterprises,83.0,8029,8.1
+2017,Denver,All industry total,1.0,8031,5.5
+2017,Denver,Private industries,2.0,8031,5.7
+2017,Denver,"Agriculture, forestry, fishing and hunting",3.0,8031,63.8
+2017,Denver,Real estate and rental and leasing,56.0,8031,10.3
+2017,Denver,Government and government enterprises,83.0,8031,4.6
+2017,Dolores,All industry total,1.0,8033,9.3
+2017,Dolores,Private industries,2.0,8033,10
+2017,Dolores,"Agriculture, forestry, fishing and hunting",3.0,8033,-20.7
+2017,Dolores,Real estate and rental and leasing,56.0,8033,(D)
+2017,Dolores,Government and government enterprises,83.0,8033,3.6
+2017,Douglas,All industry total,1.0,8035,6.7
+2017,Douglas,Private industries,2.0,8035,6.7
+2017,Douglas,"Agriculture, forestry, fishing and hunting",3.0,8035,89.9
+2017,Douglas,Real estate and rental and leasing,56.0,8035,8.4
+2017,Douglas,Government and government enterprises,83.0,8035,7.8
+2017,Eagle,All industry total,1.0,8037,5.7
+2017,Eagle,Private industries,2.0,8037,5.5
+2017,Eagle,"Agriculture, forestry, fishing and hunting",3.0,8037,87.7
+2017,Eagle,Real estate and rental and leasing,56.0,8037,8.6
+2017,Eagle,Government and government enterprises,83.0,8037,9
+2017,Elbert,All industry total,1.0,8039,11.5
+2017,Elbert,Private industries,2.0,8039,12.5
+2017,Elbert,"Agriculture, forestry, fishing and hunting",3.0,8039,133.8
+2017,Elbert,Real estate and rental and leasing,56.0,8039,8.6
+2017,Elbert,Government and government enterprises,83.0,8039,3.8
+2017,Fremont,All industry total,1.0,8043,3.5
+2017,Fremont,Private industries,2.0,8043,3.4
+2017,Fremont,"Agriculture, forestry, fishing and hunting",3.0,8043,(D)
+2017,Fremont,Real estate and rental and leasing,56.0,8043,6.6
+2017,Fremont,Government and government enterprises,83.0,8043,3.7
+2017,Garfield,All industry total,1.0,8045,7.9
+2017,Garfield,Private industries,2.0,8045,8.4
+2017,Garfield,"Agriculture, forestry, fishing and hunting",3.0,8045,123
+2017,Garfield,Real estate and rental and leasing,56.0,8045,6.6
+2017,Garfield,Government and government enterprises,83.0,8045,4.5
+2017,Gilpin,All industry total,1.0,8047,12.1
+2017,Gilpin,Private industries,2.0,8047,12.5
+2017,Gilpin,"Agriculture, forestry, fishing and hunting",3.0,8047,(D)
+2017,Gilpin,Real estate and rental and leasing,56.0,8047,(D)
+2017,Gilpin,Government and government enterprises,83.0,8047,4.5
+2017,Grand,All industry total,1.0,8049,8.5
+2017,Grand,Private industries,2.0,8049,9.4
+2017,Grand,"Agriculture, forestry, fishing and hunting",3.0,8049,-55.3
+2017,Grand,Real estate and rental and leasing,56.0,8049,7.6
+2017,Grand,Government and government enterprises,83.0,8049,2.3
+2017,Gunnison,All industry total,1.0,8051,12.8
+2017,Gunnison,Private industries,2.0,8051,13.9
+2017,Gunnison,"Agriculture, forestry, fishing and hunting",3.0,8051,242.1
+2017,Gunnison,Real estate and rental and leasing,56.0,8051,7.7
+2017,Gunnison,Government and government enterprises,83.0,8051,6.3
+2017,Hinsdale,All industry total,1.0,8053,10.8
+2017,Hinsdale,Private industries,2.0,8053,11.3
+2017,Hinsdale,"Agriculture, forestry, fishing and hunting",3.0,8053,(D)
+2017,Hinsdale,Real estate and rental and leasing,56.0,8053,(D)
+2017,Hinsdale,Government and government enterprises,83.0,8053,7.1
+2017,Huerfano,All industry total,1.0,8055,16.2
+2017,Huerfano,Private industries,2.0,8055,18.4
+2017,Huerfano,"Agriculture, forestry, fishing and hunting",3.0,8055,251
+2017,Huerfano,Real estate and rental and leasing,56.0,8055,9.6
+2017,Huerfano,Government and government enterprises,83.0,8055,-0.9
+2017,Jackson,All industry total,1.0,8057,20.7
+2017,Jackson,Private industries,2.0,8057,23.7
+2017,Jackson,"Agriculture, forestry, fishing and hunting",3.0,8057,35.3
+2017,Jackson,Real estate and rental and leasing,56.0,8057,(D)
+2017,Jackson,Government and government enterprises,83.0,8057,1.5
+2017,Jefferson,All industry total,1.0,8059,5
+2017,Jefferson,Private industries,2.0,8059,5.1
+2017,Jefferson,"Agriculture, forestry, fishing and hunting",3.0,8059,-30.1
+2017,Jefferson,Real estate and rental and leasing,56.0,8059,8
+2017,Jefferson,Government and government enterprises,83.0,8059,4.2
+2017,Kiowa,All industry total,1.0,8061,17.6
+2017,Kiowa,Private industries,2.0,8061,22.1
+2017,Kiowa,"Agriculture, forestry, fishing and hunting",3.0,8061,65.6
+2017,Kiowa,Real estate and rental and leasing,56.0,8061,12.8
+2017,Kiowa,Government and government enterprises,83.0,8061,4.9
+2017,Lake,All industry total,1.0,8065,15.9
+2017,Lake,Private industries,2.0,8065,18.2
+2017,Lake,"Agriculture, forestry, fishing and hunting",3.0,8065,(D)
+2017,Lake,Real estate and rental and leasing,56.0,8065,7.2
+2017,Lake,Government and government enterprises,83.0,8065,4.5
+2017,Larimer,All industry total,1.0,8069,9
+2017,Larimer,Private industries,2.0,8069,9.5
+2017,Larimer,"Agriculture, forestry, fishing and hunting",3.0,8069,-56.9
+2017,Larimer,Real estate and rental and leasing,56.0,8069,7.8
+2017,Larimer,Government and government enterprises,83.0,8069,6.8
+2017,Lincoln,All industry total,1.0,8073,6.3
+2017,Lincoln,Private industries,2.0,8073,5.8
+2017,Lincoln,"Agriculture, forestry, fishing and hunting",3.0,8073,-10.5
+2017,Lincoln,Real estate and rental and leasing,56.0,8073,17.4
+2017,Lincoln,Government and government enterprises,83.0,8073,8.2
+2017,Logan,All industry total,1.0,8075,-10.2
+2017,Logan,Private industries,2.0,8075,-12.2
+2017,Logan,"Agriculture, forestry, fishing and hunting",3.0,8075,-39.7
+2017,Logan,Real estate and rental and leasing,56.0,8075,9.6
+2017,Logan,Government and government enterprises,83.0,8075,4.1
+2017,Mesa,All industry total,1.0,8077,6.8
+2017,Mesa,Private industries,2.0,8077,7.4
+2017,Mesa,"Agriculture, forestry, fishing and hunting",3.0,8077,152.7
+2017,Mesa,Real estate and rental and leasing,56.0,8077,5
+2017,Mesa,Government and government enterprises,83.0,8077,3.1
+2017,Mineral,All industry total,1.0,8079,5.1
+2017,Mineral,Private industries,2.0,8079,4.8
+2017,Mineral,"Agriculture, forestry, fishing and hunting",3.0,8079,(D)
+2017,Mineral,Real estate and rental and leasing,56.0,8079,(D)
+2017,Mineral,Government and government enterprises,83.0,8079,8.7
+2017,Moffat,All industry total,1.0,8081,2.8
+2017,Moffat,Private industries,2.0,8081,2.7
+2017,Moffat,"Agriculture, forestry, fishing and hunting",3.0,8081,-27.2
+2017,Moffat,Real estate and rental and leasing,56.0,8081,7.5
+2017,Moffat,Government and government enterprises,83.0,8081,3.8
+2017,Montezuma,All industry total,1.0,8083,16.8
+2017,Montezuma,Private industries,2.0,8083,19
+2017,Montezuma,"Agriculture, forestry, fishing and hunting",3.0,8083,59.4
+2017,Montezuma,Real estate and rental and leasing,56.0,8083,6.8
+2017,Montezuma,Government and government enterprises,83.0,8083,2.6
+2017,Montrose,All industry total,1.0,8085,6
+2017,Montrose,Private industries,2.0,8085,6.2
+2017,Montrose,"Agriculture, forestry, fishing and hunting",3.0,8085,26.6
+2017,Montrose,Real estate and rental and leasing,56.0,8085,7.7
+2017,Montrose,Government and government enterprises,83.0,8085,5.2
+2017,Morgan,All industry total,1.0,8087,2.1
+2017,Morgan,Private industries,2.0,8087,1.8
+2017,Morgan,"Agriculture, forestry, fishing and hunting",3.0,8087,-31.1
+2017,Morgan,Real estate and rental and leasing,56.0,8087,7.9
+2017,Morgan,Government and government enterprises,83.0,8087,6
+2017,Otero,All industry total,1.0,8089,2.8
+2017,Otero,Private industries,2.0,8089,3
+2017,Otero,"Agriculture, forestry, fishing and hunting",3.0,8089,-25.3
+2017,Otero,Real estate and rental and leasing,56.0,8089,7.8
+2017,Otero,Government and government enterprises,83.0,8089,1.8
+2017,Ouray,All industry total,1.0,8091,2.1
+2017,Ouray,Private industries,2.0,8091,1.6
+2017,Ouray,"Agriculture, forestry, fishing and hunting",3.0,8091,(D)
+2017,Ouray,Real estate and rental and leasing,56.0,8091,6
+2017,Ouray,Government and government enterprises,83.0,8091,6
+2017,Park,All industry total,1.0,8093,7.5
+2017,Park,Private industries,2.0,8093,7.9
+2017,Park,"Agriculture, forestry, fishing and hunting",3.0,8093,146.1
+2017,Park,Real estate and rental and leasing,56.0,8093,8.1
+2017,Park,Government and government enterprises,83.0,8093,4.2
+2017,Phillips,All industry total,1.0,8095,-7.4
+2017,Phillips,Private industries,2.0,8095,-10.4
+2017,Phillips,"Agriculture, forestry, fishing and hunting",3.0,8095,-69.7
+2017,Phillips,Real estate and rental and leasing,56.0,8095,(D)
+2017,Phillips,Government and government enterprises,83.0,8095,6.8
+2017,Pitkin,All industry total,1.0,8097,4.3
+2017,Pitkin,Private industries,2.0,8097,4
+2017,Pitkin,"Agriculture, forestry, fishing and hunting",3.0,8097,(D)
+2017,Pitkin,Real estate and rental and leasing,56.0,8097,-0.4
+2017,Pitkin,Government and government enterprises,83.0,8097,7.7
+2017,Prowers,All industry total,1.0,8099,-5.9
+2017,Prowers,Private industries,2.0,8099,-7.4
+2017,Prowers,"Agriculture, forestry, fishing and hunting",3.0,8099,-31.1
+2017,Prowers,Real estate and rental and leasing,56.0,8099,8
+2017,Prowers,Government and government enterprises,83.0,8099,2.9
+2017,Pueblo,All industry total,1.0,8101,4.6
+2017,Pueblo,Private industries,2.0,8101,4.6
+2017,Pueblo,"Agriculture, forestry, fishing and hunting",3.0,8101,112.9
+2017,Pueblo,Real estate and rental and leasing,56.0,8101,7.4
+2017,Pueblo,Government and government enterprises,83.0,8101,4.4
+2017,Routt,All industry total,1.0,8107,7.3
+2017,Routt,Private industries,2.0,8107,6.6
+2017,Routt,"Agriculture, forestry, fishing and hunting",3.0,8107,(D)
+2017,Routt,Real estate and rental and leasing,56.0,8107,7.7
+2017,Routt,Government and government enterprises,83.0,8107,14.7
+2017,Saguache,All industry total,1.0,8109,-1.2
+2017,Saguache,Private industries,2.0,8109,-2.1
+2017,Saguache,"Agriculture, forestry, fishing and hunting",3.0,8109,-15.9
+2017,Saguache,Real estate and rental and leasing,56.0,8109,(D)
+2017,Saguache,Government and government enterprises,83.0,8109,3.9
+2017,Sedgwick,All industry total,1.0,8115,-25.3
+2017,Sedgwick,Private industries,2.0,8115,-30.8
+2017,Sedgwick,"Agriculture, forestry, fishing and hunting",3.0,8115,(D)
+2017,Sedgwick,Real estate and rental and leasing,56.0,8115,(D)
+2017,Sedgwick,Government and government enterprises,83.0,8115,-0.4
+2017,Summit,All industry total,1.0,8117,10.2
+2017,Summit,Private industries,2.0,8117,10.7
+2017,Summit,"Agriculture, forestry, fishing and hunting",3.0,8117,(D)
+2017,Summit,Real estate and rental and leasing,56.0,8117,9.1
+2017,Summit,Government and government enterprises,83.0,8117,5.1
+2017,Teller,All industry total,1.0,8119,11.5
+2017,Teller,Private industries,2.0,8119,12.9
+2017,Teller,"Agriculture, forestry, fishing and hunting",3.0,8119,(D)
+2017,Teller,Real estate and rental and leasing,56.0,8119,8.4
+2017,Teller,Government and government enterprises,83.0,8119,-1.9
+2017,Washington,All industry total,1.0,8121,1.4
+2017,Washington,Private industries,2.0,8121,1.3
+2017,Washington,"Agriculture, forestry, fishing and hunting",3.0,8121,-43.1
+2017,Washington,Real estate and rental and leasing,56.0,8121,10.2
+2017,Washington,Government and government enterprises,83.0,8121,2.2
+2017,Weld,All industry total,1.0,8123,14.8
+2017,Weld,Private industries,2.0,8123,15.5
+2017,Weld,"Agriculture, forestry, fishing and hunting",3.0,8123,12.1
+2017,Weld,Real estate and rental and leasing,56.0,8123,7.5
+2017,Weld,Government and government enterprises,83.0,8123,6.7
+2017,Yuma,All industry total,1.0,8125,-27.7
+2017,Yuma,Private industries,2.0,8125,-31
+2017,Yuma,"Agriculture, forestry, fishing and hunting",3.0,8125,-84.8
+2017,Yuma,Real estate and rental and leasing,56.0,8125,6.9
+2017,Yuma,Government and government enterprises,83.0,8125,3.5
+2018,Adams,All industry total,1.0,8001,8.9
+2018,Adams,Private industries,2.0,8001,8.7
+2018,Adams,"Agriculture, forestry, fishing and hunting",3.0,8001,(D)
+2018,Adams,Real estate and rental and leasing,56.0,8001,7.3
+2018,Adams,Government and government enterprises,83.0,8001,10
+2018,Alamosa,All industry total,1.0,8003,8
+2018,Alamosa,Private industries,2.0,8003,9.5
+2018,Alamosa,"Agriculture, forestry, fishing and hunting",3.0,8003,309.5
+2018,Alamosa,Real estate and rental and leasing,56.0,8003,6.7
+2018,Alamosa,Government and government enterprises,83.0,8003,1.9
+2018,Arapahoe,All industry total,1.0,8005,6.7
+2018,Arapahoe,Private industries,2.0,8005,6.8
+2018,Arapahoe,"Agriculture, forestry, fishing and hunting",3.0,8005,-16.2
+2018,Arapahoe,Real estate and rental and leasing,56.0,8005,5.8
+2018,Arapahoe,Government and government enterprises,83.0,8005,5.5
+2018,Archuleta,All industry total,1.0,8007,5.1
+2018,Archuleta,Private industries,2.0,8007,4.4
+2018,Archuleta,"Agriculture, forestry, fishing and hunting",3.0,8007,(D)
+2018,Archuleta,Real estate and rental and leasing,56.0,8007,3.3
+2018,Archuleta,Government and government enterprises,83.0,8007,9.7
+2018,Baca,All industry total,1.0,8009,-15.1
+2018,Baca,Private industries,2.0,8009,-19.6
+2018,Baca,"Agriculture, forestry, fishing and hunting",3.0,8009,-49
+2018,Baca,Real estate and rental and leasing,56.0,8009,(D)
+2018,Baca,Government and government enterprises,83.0,8009,4.4
+2018,Bent,All industry total,1.0,8011,2.6
+2018,Bent,Private industries,2.0,8011,1.9
+2018,Bent,"Agriculture, forestry, fishing and hunting",3.0,8011,149.9
+2018,Bent,Real estate and rental and leasing,56.0,8011,(D)
+2018,Bent,Government and government enterprises,83.0,8011,6.2
+2018,Boulder,All industry total,1.0,8013,4.9
+2018,Boulder,Private industries,2.0,8013,5
+2018,Boulder,"Agriculture, forestry, fishing and hunting",3.0,8013,-8.6
+2018,Boulder,Real estate and rental and leasing,56.0,8013,2.9
+2018,Boulder,Government and government enterprises,83.0,8013,3.9
+2018,Broomfield,All industry total,1.0,8014,-3.4
+2018,Broomfield,Private industries,2.0,8014,-3.6
+2018,Broomfield,"Agriculture, forestry, fishing and hunting",3.0,8014,(D)
+2018,Broomfield,Real estate and rental and leasing,56.0,8014,4.8
+2018,Broomfield,Government and government enterprises,83.0,8014,5.1
+2018,Chaffee,All industry total,1.0,8015,8.7
+2018,Chaffee,Private industries,2.0,8015,8.7
+2018,Chaffee,"Agriculture, forestry, fishing and hunting",3.0,8015,36.3
+2018,Chaffee,Real estate and rental and leasing,56.0,8015,8.8
+2018,Chaffee,Government and government enterprises,83.0,8015,9.1
+2018,Cheyenne,All industry total,1.0,8017,7.3
+2018,Cheyenne,Private industries,2.0,8017,8.3
+2018,Cheyenne,"Agriculture, forestry, fishing and hunting",3.0,8017,-14.7
+2018,Cheyenne,Real estate and rental and leasing,56.0,8017,(D)
+2018,Cheyenne,Government and government enterprises,83.0,8017,0
+2018,Conejos,All industry total,1.0,8021,8
+2018,Conejos,Private industries,2.0,8021,9
+2018,Conejos,"Agriculture, forestry, fishing and hunting",3.0,8021,16.1
+2018,Conejos,Real estate and rental and leasing,56.0,8021,(D)
+2018,Conejos,Government and government enterprises,83.0,8021,1.7
+2018,Costilla,All industry total,1.0,8023,5.7
+2018,Costilla,Private industries,2.0,8023,6.5
+2018,Costilla,"Agriculture, forestry, fishing and hunting",3.0,8023,-29.8
+2018,Costilla,Real estate and rental and leasing,56.0,8023,5.9
+2018,Costilla,Government and government enterprises,83.0,8023,2.4
+2018,Crowley,All industry total,1.0,8025,9.4
+2018,Crowley,Private industries,2.0,8025,11.3
+2018,Crowley,"Agriculture, forestry, fishing and hunting",3.0,8025,(D)
+2018,Crowley,Real estate and rental and leasing,56.0,8025,(D)
+2018,Crowley,Government and government enterprises,83.0,8025,4.4
+2018,Custer,All industry total,1.0,8027,8.2
+2018,Custer,Private industries,2.0,8027,9
+2018,Custer,"Agriculture, forestry, fishing and hunting",3.0,8027,138.5
+2018,Custer,Real estate and rental and leasing,56.0,8027,(D)
+2018,Custer,Government and government enterprises,83.0,8027,2.7
+2018,Delta,All industry total,1.0,8029,8.8
+2018,Delta,Private industries,2.0,8029,10.5
+2018,Delta,"Agriculture, forestry, fishing and hunting",3.0,8029,33.6
+2018,Delta,Real estate and rental and leasing,56.0,8029,21
+2018,Delta,Government and government enterprises,83.0,8029,2.7
+2018,Denver,All industry total,1.0,8031,7
+2018,Denver,Private industries,2.0,8031,7.4
+2018,Denver,"Agriculture, forestry, fishing and hunting",3.0,8031,31.9
+2018,Denver,Real estate and rental and leasing,56.0,8031,7.6
+2018,Denver,Government and government enterprises,83.0,8031,3
+2018,Dolores,All industry total,1.0,8033,-5.8
+2018,Dolores,Private industries,2.0,8033,-6.8
+2018,Dolores,"Agriculture, forestry, fishing and hunting",3.0,8033,91
+2018,Dolores,Real estate and rental and leasing,56.0,8033,(D)
+2018,Dolores,Government and government enterprises,83.0,8033,3.8
+2018,Douglas,All industry total,1.0,8035,9.1
+2018,Douglas,Private industries,2.0,8035,9.4
+2018,Douglas,"Agriculture, forestry, fishing and hunting",3.0,8035,-30.5
+2018,Douglas,Real estate and rental and leasing,56.0,8035,7.6
+2018,Douglas,Government and government enterprises,83.0,8035,4
+2018,Eagle,All industry total,1.0,8037,6.7
+2018,Eagle,Private industries,2.0,8037,6.9
+2018,Eagle,"Agriculture, forestry, fishing and hunting",3.0,8037,-29.6
+2018,Eagle,Real estate and rental and leasing,56.0,8037,3.6
+2018,Eagle,Government and government enterprises,83.0,8037,4.2
+2018,Elbert,All industry total,1.0,8039,15.3
+2018,Elbert,Private industries,2.0,8039,16.1
+2018,Elbert,"Agriculture, forestry, fishing and hunting",3.0,8039,-20.3
+2018,Elbert,Real estate and rental and leasing,56.0,8039,8.9
+2018,Elbert,Government and government enterprises,83.0,8039,8.6
+2018,Fremont,All industry total,1.0,8043,6
+2018,Fremont,Private industries,2.0,8043,6.9
+2018,Fremont,"Agriculture, forestry, fishing and hunting",3.0,8043,(D)
+2018,Fremont,Real estate and rental and leasing,56.0,8043,7.2
+2018,Fremont,Government and government enterprises,83.0,8043,4.3
+2018,Garfield,All industry total,1.0,8045,6
+2018,Garfield,Private industries,2.0,8045,6.2
+2018,Garfield,"Agriculture, forestry, fishing and hunting",3.0,8045,-41.8
+2018,Garfield,Real estate and rental and leasing,56.0,8045,7.6
+2018,Garfield,Government and government enterprises,83.0,8045,4.6
+2018,Gilpin,All industry total,1.0,8047,-5.5
+2018,Gilpin,Private industries,2.0,8047,-6.2
+2018,Gilpin,"Agriculture, forestry, fishing and hunting",3.0,8047,(D)
+2018,Gilpin,Real estate and rental and leasing,56.0,8047,(D)
+2018,Gilpin,Government and government enterprises,83.0,8047,5.9
+2018,Grand,All industry total,1.0,8049,6.5
+2018,Grand,Private industries,2.0,8049,6.4
+2018,Grand,"Agriculture, forestry, fishing and hunting",3.0,8049,(D)
+2018,Grand,Real estate and rental and leasing,56.0,8049,7
+2018,Grand,Government and government enterprises,83.0,8049,7.1
+2018,Gunnison,All industry total,1.0,8051,4.3
+2018,Gunnison,Private industries,2.0,8051,3.8
+2018,Gunnison,"Agriculture, forestry, fishing and hunting",3.0,8051,-25.5
+2018,Gunnison,Real estate and rental and leasing,56.0,8051,5.7
+2018,Gunnison,Government and government enterprises,83.0,8051,6.9
+2018,Hinsdale,All industry total,1.0,8053,4.1
+2018,Hinsdale,Private industries,2.0,8053,4.5
+2018,Hinsdale,"Agriculture, forestry, fishing and hunting",3.0,8053,(D)
+2018,Hinsdale,Real estate and rental and leasing,56.0,8053,(D)
+2018,Hinsdale,Government and government enterprises,83.0,8053,0.7
+2018,Huerfano,All industry total,1.0,8055,6.4
+2018,Huerfano,Private industries,2.0,8055,6.4
+2018,Huerfano,"Agriculture, forestry, fishing and hunting",3.0,8055,-35.7
+2018,Huerfano,Real estate and rental and leasing,56.0,8055,8.9
+2018,Huerfano,Government and government enterprises,83.0,8055,6.4
+2018,Jackson,All industry total,1.0,8057,29.5
+2018,Jackson,Private industries,2.0,8057,32.2
+2018,Jackson,"Agriculture, forestry, fishing and hunting",3.0,8057,12.9
+2018,Jackson,Real estate and rental and leasing,56.0,8057,(D)
+2018,Jackson,Government and government enterprises,83.0,8057,9.2
+2018,Jefferson,All industry total,1.0,8059,6.5
+2018,Jefferson,Private industries,2.0,8059,6.7
+2018,Jefferson,"Agriculture, forestry, fishing and hunting",3.0,8059,71
+2018,Jefferson,Real estate and rental and leasing,56.0,8059,7.3
+2018,Jefferson,Government and government enterprises,83.0,8059,4.6
+2018,Kiowa,All industry total,1.0,8061,4
+2018,Kiowa,Private industries,2.0,8061,2.7
+2018,Kiowa,"Agriculture, forestry, fishing and hunting",3.0,8061,-31.1
+2018,Kiowa,Real estate and rental and leasing,56.0,8061,5.2
+2018,Kiowa,Government and government enterprises,83.0,8061,8.1
+2018,Lake,All industry total,1.0,8065,7.5
+2018,Lake,Private industries,2.0,8065,7.9
+2018,Lake,"Agriculture, forestry, fishing and hunting",3.0,8065,(D)
+2018,Lake,Real estate and rental and leasing,56.0,8065,7.2
+2018,Lake,Government and government enterprises,83.0,8065,5.3
+2018,Larimer,All industry total,1.0,8069,7.1
+2018,Larimer,Private industries,2.0,8069,7.3
+2018,Larimer,"Agriculture, forestry, fishing and hunting",3.0,8069,263.9
+2018,Larimer,Real estate and rental and leasing,56.0,8069,10.1
+2018,Larimer,Government and government enterprises,83.0,8069,6.4
+2018,Lincoln,All industry total,1.0,8073,3
+2018,Lincoln,Private industries,2.0,8073,2.9
+2018,Lincoln,"Agriculture, forestry, fishing and hunting",3.0,8073,8.9
+2018,Lincoln,Real estate and rental and leasing,56.0,8073,13.4
+2018,Lincoln,Government and government enterprises,83.0,8073,3.5
+2018,Logan,All industry total,1.0,8075,-1
+2018,Logan,Private industries,2.0,8075,-1.9
+2018,Logan,"Agriculture, forestry, fishing and hunting",3.0,8075,-21.6
+2018,Logan,Real estate and rental and leasing,56.0,8075,7
+2018,Logan,Government and government enterprises,83.0,8075,4.3
+2018,Mesa,All industry total,1.0,8077,7.3
+2018,Mesa,Private industries,2.0,8077,7.5
+2018,Mesa,"Agriculture, forestry, fishing and hunting",3.0,8077,-38.7
+2018,Mesa,Real estate and rental and leasing,56.0,8077,6
+2018,Mesa,Government and government enterprises,83.0,8077,5.8
+2018,Mineral,All industry total,1.0,8079,9.7
+2018,Mineral,Private industries,2.0,8079,9.7
+2018,Mineral,"Agriculture, forestry, fishing and hunting",3.0,8079,(D)
+2018,Mineral,Real estate and rental and leasing,56.0,8079,(D)
+2018,Mineral,Government and government enterprises,83.0,8079,9.6
+2018,Moffat,All industry total,1.0,8081,-2.4
+2018,Moffat,Private industries,2.0,8081,-2.8
+2018,Moffat,"Agriculture, forestry, fishing and hunting",3.0,8081,-1.2
+2018,Moffat,Real estate and rental and leasing,56.0,8081,8.5
+2018,Moffat,Government and government enterprises,83.0,8081,1.8
+2018,Montezuma,All industry total,1.0,8083,-0.8
+2018,Montezuma,Private industries,2.0,8083,-1.3
+2018,Montezuma,"Agriculture, forestry, fishing and hunting",3.0,8083,-23.4
+2018,Montezuma,Real estate and rental and leasing,56.0,8083,6.8
+2018,Montezuma,Government and government enterprises,83.0,8083,3.3
+2018,Montrose,All industry total,1.0,8085,9.4
+2018,Montrose,Private industries,2.0,8085,10.6
+2018,Montrose,"Agriculture, forestry, fishing and hunting",3.0,8085,-33.8
+2018,Montrose,Real estate and rental and leasing,56.0,8085,8
+2018,Montrose,Government and government enterprises,83.0,8085,3.4
+2018,Morgan,All industry total,1.0,8087,9.8
+2018,Morgan,Private industries,2.0,8087,10.3
+2018,Morgan,"Agriculture, forestry, fishing and hunting",3.0,8087,20.1
+2018,Morgan,Real estate and rental and leasing,56.0,8087,8.9
+2018,Morgan,Government and government enterprises,83.0,8087,4.2
+2018,Otero,All industry total,1.0,8089,9
+2018,Otero,Private industries,2.0,8089,10.1
+2018,Otero,"Agriculture, forestry, fishing and hunting",3.0,8089,76.8
+2018,Otero,Real estate and rental and leasing,56.0,8089,7.5
+2018,Otero,Government and government enterprises,83.0,8089,3.8
+2018,Ouray,All industry total,1.0,8091,4.8
+2018,Ouray,Private industries,2.0,8091,4.9
+2018,Ouray,"Agriculture, forestry, fishing and hunting",3.0,8091,(D)
+2018,Ouray,Real estate and rental and leasing,56.0,8091,5.4
+2018,Ouray,Government and government enterprises,83.0,8091,3.9
+2018,Park,All industry total,1.0,8093,6.4
+2018,Park,Private industries,2.0,8093,6.8
+2018,Park,"Agriculture, forestry, fishing and hunting",3.0,8093,-27.8
+2018,Park,Real estate and rental and leasing,56.0,8093,6.2
+2018,Park,Government and government enterprises,83.0,8093,2.9
+2018,Phillips,All industry total,1.0,8095,10.7
+2018,Phillips,Private industries,2.0,8095,12.4
+2018,Phillips,"Agriculture, forestry, fishing and hunting",3.0,8095,83
+2018,Phillips,Real estate and rental and leasing,56.0,8095,(D)
+2018,Phillips,Government and government enterprises,83.0,8095,3.8
+2018,Pitkin,All industry total,1.0,8097,5.3
+2018,Pitkin,Private industries,2.0,8097,5.5
+2018,Pitkin,"Agriculture, forestry, fishing and hunting",3.0,8097,(D)
+2018,Pitkin,Real estate and rental and leasing,56.0,8097,-0.4
+2018,Pitkin,Government and government enterprises,83.0,8097,3.1
+2018,Prowers,All industry total,1.0,8099,7.4
+2018,Prowers,Private industries,2.0,8099,8.2
+2018,Prowers,"Agriculture, forestry, fishing and hunting",3.0,8099,-1
+2018,Prowers,Real estate and rental and leasing,56.0,8099,7.4
+2018,Prowers,Government and government enterprises,83.0,8099,3.1
+2018,Pueblo,All industry total,1.0,8101,4.7
+2018,Pueblo,Private industries,2.0,8101,4.7
+2018,Pueblo,"Agriculture, forestry, fishing and hunting",3.0,8101,-55.3
+2018,Pueblo,Real estate and rental and leasing,56.0,8101,5.9
+2018,Pueblo,Government and government enterprises,83.0,8101,4.5
+2018,Routt,All industry total,1.0,8107,3.1
+2018,Routt,Private industries,2.0,8107,0.7
+2018,Routt,"Agriculture, forestry, fishing and hunting",3.0,8107,(D)
+2018,Routt,Real estate and rental and leasing,56.0,8107,12.1
+2018,Routt,Government and government enterprises,83.0,8107,29.8
+2018,Saguache,All industry total,1.0,8109,18.7
+2018,Saguache,Private industries,2.0,8109,21.5
+2018,Saguache,"Agriculture, forestry, fishing and hunting",3.0,8109,50.7
+2018,Saguache,Real estate and rental and leasing,56.0,8109,(D)
+2018,Saguache,Government and government enterprises,83.0,8109,4.7
+2018,Sedgwick,All industry total,1.0,8115,11.8
+2018,Sedgwick,Private industries,2.0,8115,13.3
+2018,Sedgwick,"Agriculture, forestry, fishing and hunting",3.0,8115,282.9
+2018,Sedgwick,Real estate and rental and leasing,56.0,8115,(D)
+2018,Sedgwick,Government and government enterprises,83.0,8115,7
+2018,Summit,All industry total,1.0,8117,6.9
+2018,Summit,Private industries,2.0,8117,6.9
+2018,Summit,"Agriculture, forestry, fishing and hunting",3.0,8117,(D)
+2018,Summit,Real estate and rental and leasing,56.0,8117,5
+2018,Summit,Government and government enterprises,83.0,8117,6.4
+2018,Teller,All industry total,1.0,8119,0.7
+2018,Teller,Private industries,2.0,8119,-0.7
+2018,Teller,"Agriculture, forestry, fishing and hunting",3.0,8119,(D)
+2018,Teller,Real estate and rental and leasing,56.0,8119,7.3
+2018,Teller,Government and government enterprises,83.0,8119,14.6
+2018,Washington,All industry total,1.0,8121,7.6
+2018,Washington,Private industries,2.0,8121,7.8
+2018,Washington,"Agriculture, forestry, fishing and hunting",3.0,8121,20.3
+2018,Washington,Real estate and rental and leasing,56.0,8121,6.4
+2018,Washington,Government and government enterprises,83.0,8121,6.4
+2018,Weld,All industry total,1.0,8123,19.3
+2018,Weld,Private industries,2.0,8123,20.2
+2018,Weld,"Agriculture, forestry, fishing and hunting",3.0,8123,6.3
+2018,Weld,Real estate and rental and leasing,56.0,8123,5.3
+2018,Weld,Government and government enterprises,83.0,8123,6.6
+2018,Yuma,All industry total,1.0,8125,5
+2018,Yuma,Private industries,2.0,8125,5.7
+2018,Yuma,"Agriculture, forestry, fishing and hunting",3.0,8125,9.2
+2018,Yuma,Real estate and rental and leasing,56.0,8125,5.6
+2018,Yuma,Government and government enterprises,83.0,8125,0.8
+2019,Adams,All industry total,1.0,8001,6.5
+2019,Adams,Private industries,2.0,8001,4.8
+2019,Adams,"Agriculture, forestry, fishing and hunting",3.0,8001,(D)
+2019,Adams,Real estate and rental and leasing,56.0,8001,3
+2019,Adams,Government and government enterprises,83.0,8001,15.5
+2019,Alamosa,All industry total,1.0,8003,8.8
+2019,Alamosa,Private industries,2.0,8003,11.4
+2019,Alamosa,"Agriculture, forestry, fishing and hunting",3.0,8003,79.3
+2019,Alamosa,Real estate and rental and leasing,56.0,8003,14.4
+2019,Alamosa,Government and government enterprises,83.0,8003,-1.9
+2019,Arapahoe,All industry total,1.0,8005,4.8
+2019,Arapahoe,Private industries,2.0,8005,4.8
+2019,Arapahoe,"Agriculture, forestry, fishing and hunting",3.0,8005,-48.5
+2019,Arapahoe,Real estate and rental and leasing,56.0,8005,3.5
+2019,Arapahoe,Government and government enterprises,83.0,8005,5.2
+2019,Archuleta,All industry total,1.0,8007,7.1
+2019,Archuleta,Private industries,2.0,8007,7.2
+2019,Archuleta,"Agriculture, forestry, fishing and hunting",3.0,8007,(D)
+2019,Archuleta,Real estate and rental and leasing,56.0,8007,16.9
+2019,Archuleta,Government and government enterprises,83.0,8007,6.5
+2019,Baca,All industry total,1.0,8009,-10.4
+2019,Baca,Private industries,2.0,8009,-14.2
+2019,Baca,"Agriculture, forestry, fishing and hunting",3.0,8009,-81.4
+2019,Baca,Real estate and rental and leasing,56.0,8009,(D)
+2019,Baca,Government and government enterprises,83.0,8009,2.4
+2019,Bent,All industry total,1.0,8011,4.4
+2019,Bent,Private industries,2.0,8011,5.2
+2019,Bent,"Agriculture, forestry, fishing and hunting",3.0,8011,-18.7
+2019,Bent,Real estate and rental and leasing,56.0,8011,(D)
+2019,Bent,Government and government enterprises,83.0,8011,0.6
+2019,Boulder,All industry total,1.0,8013,8
+2019,Boulder,Private industries,2.0,8013,8.2
+2019,Boulder,"Agriculture, forestry, fishing and hunting",3.0,8013,35.9
+2019,Boulder,Real estate and rental and leasing,56.0,8013,2
+2019,Boulder,Government and government enterprises,83.0,8013,6.3
+2019,Broomfield,All industry total,1.0,8014,7.5
+2019,Broomfield,Private industries,2.0,8014,7.6
+2019,Broomfield,"Agriculture, forestry, fishing and hunting",3.0,8014,-17.1
+2019,Broomfield,Real estate and rental and leasing,56.0,8014,-6.7
+2019,Broomfield,Government and government enterprises,83.0,8014,6.1
+2019,Chaffee,All industry total,1.0,8015,6.9
+2019,Chaffee,Private industries,2.0,8015,7.2
+2019,Chaffee,"Agriculture, forestry, fishing and hunting",3.0,8015,-45.6
+2019,Chaffee,Real estate and rental and leasing,56.0,8015,17.8
+2019,Chaffee,Government and government enterprises,83.0,8015,5.2
+2019,Cheyenne,All industry total,1.0,8017,1.7
+2019,Cheyenne,Private industries,2.0,8017,1.9
+2019,Cheyenne,"Agriculture, forestry, fishing and hunting",3.0,8017,57.5
+2019,Cheyenne,Real estate and rental and leasing,56.0,8017,(D)
+2019,Cheyenne,Government and government enterprises,83.0,8017,0
+2019,Conejos,All industry total,1.0,8021,10.7
+2019,Conejos,Private industries,2.0,8021,12.4
+2019,Conejos,"Agriculture, forestry, fishing and hunting",3.0,8021,5.5
+2019,Conejos,Real estate and rental and leasing,56.0,8021,(D)
+2019,Conejos,Government and government enterprises,83.0,8021,-0.5
+2019,Costilla,All industry total,1.0,8023,14.2
+2019,Costilla,Private industries,2.0,8023,16.6
+2019,Costilla,"Agriculture, forestry, fishing and hunting",3.0,8023,19.7
+2019,Costilla,Real estate and rental and leasing,56.0,8023,22.8
+2019,Costilla,Government and government enterprises,83.0,8023,3.1
+2019,Crowley,All industry total,1.0,8025,5.8
+2019,Crowley,Private industries,2.0,8025,6.3
+2019,Crowley,"Agriculture, forestry, fishing and hunting",3.0,8025,-3.3
+2019,Crowley,Real estate and rental and leasing,56.0,8025,(D)
+2019,Crowley,Government and government enterprises,83.0,8025,4.2
+2019,Custer,All industry total,1.0,8027,10.2
+2019,Custer,Private industries,2.0,8027,11.1
+2019,Custer,"Agriculture, forestry, fishing and hunting",3.0,8027,-31.1
+2019,Custer,Real estate and rental and leasing,56.0,8027,(D)
+2019,Custer,Government and government enterprises,83.0,8027,2.4
+2019,Delta,All industry total,1.0,8029,8.2
+2019,Delta,Private industries,2.0,8029,9.2
+2019,Delta,"Agriculture, forestry, fishing and hunting",3.0,8029,14.6
+2019,Delta,Real estate and rental and leasing,56.0,8029,19.6
+2019,Delta,Government and government enterprises,83.0,8029,4.4
+2019,Denver,All industry total,1.0,8031,5.4
+2019,Denver,Private industries,2.0,8031,6
+2019,Denver,"Agriculture, forestry, fishing and hunting",3.0,8031,23.1
+2019,Denver,Real estate and rental and leasing,56.0,8031,1.7
+2019,Denver,Government and government enterprises,83.0,8031,0.6
+2019,Dolores,All industry total,1.0,8033,-9
+2019,Dolores,Private industries,2.0,8033,-10.6
+2019,Dolores,"Agriculture, forestry, fishing and hunting",3.0,8033,67
+2019,Dolores,Real estate and rental and leasing,56.0,8033,(D)
+2019,Dolores,Government and government enterprises,83.0,8033,4.2
+2019,Douglas,All industry total,1.0,8035,8.3
+2019,Douglas,Private industries,2.0,8035,8.5
+2019,Douglas,"Agriculture, forestry, fishing and hunting",3.0,8035,-44.5
+2019,Douglas,Real estate and rental and leasing,56.0,8035,1.9
+2019,Douglas,Government and government enterprises,83.0,8035,5.2
+2019,Eagle,All industry total,1.0,8037,5.9
+2019,Eagle,Private industries,2.0,8037,6
+2019,Eagle,"Agriculture, forestry, fishing and hunting",3.0,8037,3.8
+2019,Eagle,Real estate and rental and leasing,56.0,8037,12.1
+2019,Eagle,Government and government enterprises,83.0,8037,4.3
+2019,Elbert,All industry total,1.0,8039,23.7
+2019,Elbert,Private industries,2.0,8039,25.7
+2019,Elbert,"Agriculture, forestry, fishing and hunting",3.0,8039,(D)
+2019,Elbert,Real estate and rental and leasing,56.0,8039,22
+2019,Elbert,Government and government enterprises,83.0,8039,6.7
+2019,Fremont,All industry total,1.0,8043,7.2
+2019,Fremont,Private industries,2.0,8043,9.7
+2019,Fremont,"Agriculture, forestry, fishing and hunting",3.0,8043,(D)
+2019,Fremont,Real estate and rental and leasing,56.0,8043,18.9
+2019,Fremont,Government and government enterprises,83.0,8043,2
+2019,Garfield,All industry total,1.0,8045,-2.9
+2019,Garfield,Private industries,2.0,8045,-3.9
+2019,Garfield,"Agriculture, forestry, fishing and hunting",3.0,8045,-35.2
+2019,Garfield,Real estate and rental and leasing,56.0,8045,5.1
+2019,Garfield,Government and government enterprises,83.0,8045,4.6
+2019,Gilpin,All industry total,1.0,8047,-1.6
+2019,Gilpin,Private industries,2.0,8047,-1.9
+2019,Gilpin,"Agriculture, forestry, fishing and hunting",3.0,8047,(D)
+2019,Gilpin,Real estate and rental and leasing,56.0,8047,(D)
+2019,Gilpin,Government and government enterprises,83.0,8047,3
+2019,Grand,All industry total,1.0,8049,9.1
+2019,Grand,Private industries,2.0,8049,9.3
+2019,Grand,"Agriculture, forestry, fishing and hunting",3.0,8049,(D)
+2019,Grand,Real estate and rental and leasing,56.0,8049,21.2
+2019,Grand,Government and government enterprises,83.0,8049,7.4
+2019,Gunnison,All industry total,1.0,8051,5.3
+2019,Gunnison,Private industries,2.0,8051,5.3
+2019,Gunnison,"Agriculture, forestry, fishing and hunting",3.0,8051,(D)
+2019,Gunnison,Real estate and rental and leasing,56.0,8051,15.1
+2019,Gunnison,Government and government enterprises,83.0,8051,5.6
+2019,Hinsdale,All industry total,1.0,8053,16.7
+2019,Hinsdale,Private industries,2.0,8053,19
+2019,Hinsdale,"Agriculture, forestry, fishing and hunting",3.0,8053,(D)
+2019,Hinsdale,Real estate and rental and leasing,56.0,8053,25.1
+2019,Hinsdale,Government and government enterprises,83.0,8053,-1.1
+2019,Huerfano,All industry total,1.0,8055,3.2
+2019,Huerfano,Private industries,2.0,8055,3
+2019,Huerfano,"Agriculture, forestry, fishing and hunting",3.0,8055,-69.2
+2019,Huerfano,Real estate and rental and leasing,56.0,8055,24.4
+2019,Huerfano,Government and government enterprises,83.0,8055,4.8
+2019,Jackson,All industry total,1.0,8057,2.2
+2019,Jackson,Private industries,2.0,8057,2.8
+2019,Jackson,"Agriculture, forestry, fishing and hunting",3.0,8057,-16.1
+2019,Jackson,Real estate and rental and leasing,56.0,8057,(D)
+2019,Jackson,Government and government enterprises,83.0,8057,-3
+2019,Jefferson,All industry total,1.0,8059,6.3
+2019,Jefferson,Private industries,2.0,8059,6.7
+2019,Jefferson,"Agriculture, forestry, fishing and hunting",3.0,8059,-43.9
+2019,Jefferson,Real estate and rental and leasing,56.0,8059,8.3
+2019,Jefferson,Government and government enterprises,83.0,8059,3.4
+2019,Kiowa,All industry total,1.0,8061,33.2
+2019,Kiowa,Private industries,2.0,8061,44.5
+2019,Kiowa,"Agriculture, forestry, fishing and hunting",3.0,8061,399.9
+2019,Kiowa,Real estate and rental and leasing,56.0,8061,23.7
+2019,Kiowa,Government and government enterprises,83.0,8061,-1.9
+2019,Lake,All industry total,1.0,8065,16.6
+2019,Lake,Private industries,2.0,8065,18.9
+2019,Lake,"Agriculture, forestry, fishing and hunting",3.0,8065,(D)
+2019,Lake,Real estate and rental and leasing,56.0,8065,15.8
+2019,Lake,Government and government enterprises,83.0,8065,3.4
+2019,Larimer,All industry total,1.0,8069,4.6
+2019,Larimer,Private industries,2.0,8069,4.6
+2019,Larimer,"Agriculture, forestry, fishing and hunting",3.0,8069,111.3
+2019,Larimer,Real estate and rental and leasing,56.0,8069,2.9
+2019,Larimer,Government and government enterprises,83.0,8069,4.6
+2019,Lincoln,All industry total,1.0,8073,1.6
+2019,Lincoln,Private industries,2.0,8073,2.3
+2019,Lincoln,"Agriculture, forestry, fishing and hunting",3.0,8073,55.3
+2019,Lincoln,Real estate and rental and leasing,56.0,8073,17.6
+2019,Lincoln,Government and government enterprises,83.0,8073,-1.7
+2019,Logan,All industry total,1.0,8075,9.4
+2019,Logan,Private industries,2.0,8075,10.9
+2019,Logan,"Agriculture, forestry, fishing and hunting",3.0,8075,68.2
+2019,Logan,Real estate and rental and leasing,56.0,8075,14.5
+2019,Logan,Government and government enterprises,83.0,8075,1.4
+2019,Mesa,All industry total,1.0,8077,4.8
+2019,Mesa,Private industries,2.0,8077,4.8
+2019,Mesa,"Agriculture, forestry, fishing and hunting",3.0,8077,-42.4
+2019,Mesa,Real estate and rental and leasing,56.0,8077,11.5
+2019,Mesa,Government and government enterprises,83.0,8077,5.1
+2019,Mineral,All industry total,1.0,8079,12.1
+2019,Mineral,Private industries,2.0,8079,12.3
+2019,Mineral,"Agriculture, forestry, fishing and hunting",3.0,8079,(D)
+2019,Mineral,Real estate and rental and leasing,56.0,8079,(D)
+2019,Mineral,Government and government enterprises,83.0,8079,9
+2019,Moffat,All industry total,1.0,8081,7.3
+2019,Moffat,Private industries,2.0,8081,8.1
+2019,Moffat,"Agriculture, forestry, fishing and hunting",3.0,8081,-30.6
+2019,Moffat,Real estate and rental and leasing,56.0,8081,16.9
+2019,Moffat,Government and government enterprises,83.0,8081,-2.2
+2019,Montezuma,All industry total,1.0,8083,-5
+2019,Montezuma,Private industries,2.0,8083,-6
+2019,Montezuma,"Agriculture, forestry, fishing and hunting",3.0,8083,183.9
+2019,Montezuma,Real estate and rental and leasing,56.0,8083,16.8
+2019,Montezuma,Government and government enterprises,83.0,8083,2.6
+2019,Montrose,All industry total,1.0,8085,5.6
+2019,Montrose,Private industries,2.0,8085,5.8
+2019,Montrose,"Agriculture, forestry, fishing and hunting",3.0,8085,-15.8
+2019,Montrose,Real estate and rental and leasing,56.0,8085,14
+2019,Montrose,Government and government enterprises,83.0,8085,4.2
+2019,Morgan,All industry total,1.0,8087,4.9
+2019,Morgan,Private industries,2.0,8087,5
+2019,Morgan,"Agriculture, forestry, fishing and hunting",3.0,8087,38.6
+2019,Morgan,Real estate and rental and leasing,56.0,8087,15.6
+2019,Morgan,Government and government enterprises,83.0,8087,3.8
+2019,Otero,All industry total,1.0,8089,8.9
+2019,Otero,Private industries,2.0,8089,9.7
+2019,Otero,"Agriculture, forestry, fishing and hunting",3.0,8089,-4.9
+2019,Otero,Real estate and rental and leasing,56.0,8089,20.9
+2019,Otero,Government and government enterprises,83.0,8089,4.5
+2019,Ouray,All industry total,1.0,8091,8.8
+2019,Ouray,Private industries,2.0,8091,9.5
+2019,Ouray,"Agriculture, forestry, fishing and hunting",3.0,8091,(D)
+2019,Ouray,Real estate and rental and leasing,56.0,8091,17
+2019,Ouray,Government and government enterprises,83.0,8091,3.9
+2019,Park,All industry total,1.0,8093,13.7
+2019,Park,Private industries,2.0,8093,14.8
+2019,Park,"Agriculture, forestry, fishing and hunting",3.0,8093,-15.1
+2019,Park,Real estate and rental and leasing,56.0,8093,23.8
+2019,Park,Government and government enterprises,83.0,8093,5.4
+2019,Phillips,All industry total,1.0,8095,9.1
+2019,Phillips,Private industries,2.0,8095,10.3
+2019,Phillips,"Agriculture, forestry, fishing and hunting",3.0,8095,20
+2019,Phillips,Real estate and rental and leasing,56.0,8095,(D)
+2019,Phillips,Government and government enterprises,83.0,8095,4
+2019,Pitkin,All industry total,1.0,8097,5.3
+2019,Pitkin,Private industries,2.0,8097,5.3
+2019,Pitkin,"Agriculture, forestry, fishing and hunting",3.0,8097,(D)
+2019,Pitkin,Real estate and rental and leasing,56.0,8097,12.3
+2019,Pitkin,Government and government enterprises,83.0,8097,5.3
+2019,Prowers,All industry total,1.0,8099,12.6
+2019,Prowers,Private industries,2.0,8099,14.2
+2019,Prowers,"Agriculture, forestry, fishing and hunting",3.0,8099,29.2
+2019,Prowers,Real estate and rental and leasing,56.0,8099,20.9
+2019,Prowers,Government and government enterprises,83.0,8099,4.1
+2019,Pueblo,All industry total,1.0,8101,5.9
+2019,Pueblo,Private industries,2.0,8101,6.6
+2019,Pueblo,"Agriculture, forestry, fishing and hunting",3.0,8101,100.9
+2019,Pueblo,Real estate and rental and leasing,56.0,8101,15.4
+2019,Pueblo,Government and government enterprises,83.0,8101,1.9
+2019,Routt,All industry total,1.0,8107,6.9
+2019,Routt,Private industries,2.0,8107,7.1
+2019,Routt,"Agriculture, forestry, fishing and hunting",3.0,8107,(D)
+2019,Routt,Real estate and rental and leasing,56.0,8107,11.8
+2019,Routt,Government and government enterprises,83.0,8107,4.5
+2019,Saguache,All industry total,1.0,8109,22.2
+2019,Saguache,Private industries,2.0,8109,25.2
+2019,Saguache,"Agriculture, forestry, fishing and hunting",3.0,8109,43.8
+2019,Saguache,Real estate and rental and leasing,56.0,8109,(D)
+2019,Saguache,Government and government enterprises,83.0,8109,4.6
+2019,Sedgwick,All industry total,1.0,8115,17.1
+2019,Sedgwick,Private industries,2.0,8115,22.2
+2019,Sedgwick,"Agriculture, forestry, fishing and hunting",3.0,8115,82.7
+2019,Sedgwick,Real estate and rental and leasing,56.0,8115,(D)
+2019,Sedgwick,Government and government enterprises,83.0,8115,0.1
+2019,Summit,All industry total,1.0,8117,7.9
+2019,Summit,Private industries,2.0,8117,8.2
+2019,Summit,"Agriculture, forestry, fishing and hunting",3.0,8117,(D)
+2019,Summit,Real estate and rental and leasing,56.0,8117,14.9
+2019,Summit,Government and government enterprises,83.0,8117,4.4
+2019,Teller,All industry total,1.0,8119,12.4
+2019,Teller,Private industries,2.0,8119,13
+2019,Teller,"Agriculture, forestry, fishing and hunting",3.0,8119,(D)
+2019,Teller,Real estate and rental and leasing,56.0,8119,18.8
+2019,Teller,Government and government enterprises,83.0,8119,6.9
+2019,Washington,All industry total,1.0,8121,7.6
+2019,Washington,Private industries,2.0,8121,9.3
+2019,Washington,"Agriculture, forestry, fishing and hunting",3.0,8121,43.2
+2019,Washington,Real estate and rental and leasing,56.0,8121,21.6
+2019,Washington,Government and government enterprises,83.0,8121,-0.9
+2019,Weld,All industry total,1.0,8123,-1.9
+2019,Weld,Private industries,2.0,8123,-2.3
+2019,Weld,"Agriculture, forestry, fishing and hunting",3.0,8123,5.6
+2019,Weld,Real estate and rental and leasing,56.0,8123,8.4
+2019,Weld,Government and government enterprises,83.0,8123,4.8
+2019,Yuma,All industry total,1.0,8125,19.7
+2019,Yuma,Private industries,2.0,8125,22.3
+2019,Yuma,"Agriculture, forestry, fishing and hunting",3.0,8125,182.8
+2019,Yuma,Real estate and rental and leasing,56.0,8125,19
+2019,Yuma,Government and government enterprises,83.0,8125,2.3
