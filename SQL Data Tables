@@ -29,4 +29,16 @@ CREATE TABLE gdp (
 
 Select * FROM gdp 
 
+SELECT income.county,
+	income.year, 
+	income.income,
+	housing.house_price
+INTO housing_income
+FROM income 
+LEFT OUTER JOIN housing 
+ON income.county = housing.county;
+
+SELECT * FROM housing_income
+
+
 postgres://postgres:DnalEvelc1130!@localhost:5432/Housing-Database
