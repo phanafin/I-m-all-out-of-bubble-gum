@@ -20,6 +20,16 @@ The group has worked together to gather a variety of Data sets from a variety of
 ### **Description of the analysis phase of the project**
 The group is in the process of cleaning the data.  The group will use Jupyter Notebook to call the data from the csv files that we found.  We will combine columns from the two different Data sets and begin to eliminate columns that are not relevant to the project.  We are also in the process of dropping rows that do not have complete information.  Once the cleaning is complete, the group will employ PGAdmin to house our data.  Eventually, moving information to Javascript to display our findings.
 
+### Visualizations
+
+We created two Tableau stories for some further contributing data regarding this project. The first compares various metrics from 2010 and 2016:
+
+https://public.tableau.com/app/profile/joel5248/viz/HousePriceProject_16357176681830/Story1?publish=yes
+
+and the second shows the correlation and variation between house prices and other metrics for some of the more heavily populated counties in the Front Range:
+
+https://public.tableau.com/app/profile/joel5248/viz/ProjectFinalCountyData/Story1?publish=yes
+
 ## README.md should include:
 
 ### **Description of the communication protocols**
