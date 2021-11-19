@@ -30,6 +30,12 @@ and the second shows the correlation and variation between house prices and othe
 
 https://public.tableau.com/app/profile/joel5248/viz/ProjectFinalCountyData/Story1?publish=yes
 
+### Google Slide Link
+
+Our link for the google slides for our presentation is below: 
+
+https://docs.google.com/presentation/d/1Po52fmBSyhqKQbyg-bUZlLXAX_6RMl83/edit#slide=id.p2
+
 ## README.md should include:
 
 ### **Description of the communication protocols**
